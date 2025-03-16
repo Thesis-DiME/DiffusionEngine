@@ -1,1 +1,2 @@
 # DiffusionEngine
+`python main.py`
