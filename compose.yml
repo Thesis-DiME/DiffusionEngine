@@ -1,0 +1,9 @@
+services:
+  diffusion-engine:
+    build:
+      context: .
+      tags: 
+        - "diffusion-engine:main"
+    container_name: diffusion-engine 
+    network_mode: host
+
