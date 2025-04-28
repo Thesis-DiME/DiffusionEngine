@@ -1,0 +1,10 @@
+defaults:
+  - _self_
+
+prompts_file: data/prompts.txt
+repo_id: stabilityai/stable-diffusion-xl-base-1.0
+seed: 0
+device: cuda
+num_inference_steps: 35
+cfg_scale: 7.5
+output_path: output/

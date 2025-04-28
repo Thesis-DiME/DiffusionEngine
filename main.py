@@ -1,62 +1,93 @@
-import os
 import json
-import torch
-import argparse
+from pathlib import Path
 from datetime import datetime
-
-from diffusers import StableDiffusionPipeline
-
-
-def parse_args():
-    parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--model_id", type=str, default="runwayml/stable-diffusion-v1-5"
-    )
-    parser.add_argument("--num_inference_steps", type=int, default=30)
-    parser.add_argument("--seed", type=int, default=0)
-    parser.add_argument("--cfg_scale", type=float, default=7.5)
-    parser.add_argument("--output_path", type=str, default="./output")
-    parser.add_argument("--device", type=str, default="cuda")
-    return parser.parse_args()
+from omegaconf import DictConfig, OmegaConf
+import torch
+from diffusers import DiffusionPipeline
+import hydra
 
 
-def main():
-    args = parse_args()
-    with open("./data/prompts.txt", "r") as f:
-        prompts = [line.strip() for line in f if line.strip()]
+class StableDiffusionImageGenerator:
+    def __init__(self, cfg: DictConfig):
+        self.cfg = cfg
+        self.repo_id = cfg.repo_id
+        self.model_name = self.repo_id.replace("/", "-")
+        self.device = cfg.device
+        self.seed = cfg.seed
+        self.cfg_scale = cfg.cfg_scale
+        self.num_inference_steps = cfg.num_inference_steps
 
-    model_name = "sd1.5"
+        self.base_dir = Path(hydra.utils.get_original_cwd())
+        self.out_dir = Path(hydra.utils.to_absolute_path(cfg.output_path)) / self.model_name
 
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    out_dir = os.path.join(base_dir, args.output_path, model_name)
-    os.makedirs(out_dir, exist_ok=True)
+        self.prompts_path = self.base_dir / "data" / "prompts.txt"
+        self.torch_dtype = torch.float16 if self.device == "cuda" else torch.float32
 
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    out_dir = os.path.join(out_dir, timestamp)
-    os.makedirs(out_dir, exist_ok=True)
+        self.timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        self.current_out_dir = self._prepare_output_directory()
 
-    torch_dtype = torch.float16 if args.device == "cuda" else torch.float32
+        self.pipe = self._initialize_pipeline()
 
-    pipe = StableDiffusionPipeline.from_pretrained(
-        args.model_id,
-        torch_dtype=torch_dtype,
-        safety_checker=None,
-        requires_safety_checker=False,
-    ).to(args.device)
-
-    metadata = []
-    for i, prompt in enumerate(prompts):
-        image = pipe(prompt=prompt).images[0]
-        img_path = os.path.join(out_dir, f"image_{i}.png")
-        image.save(img_path)
-
-        metadata.append(
-            {"image_path": os.path.relpath(img_path, base_dir), "prompt": prompt}
+    def _initialize_pipeline(self):
+        torch.manual_seed(self.seed)
+        pipe = DiffusionPipeline.from_pretrained(
+            self.repo_id,
+            torch_dtype=self.torch_dtype,
         )
+        return pipe.to(self.device)
 
-    with open(os.path.join(out_dir, "metadata.jsonl"), "w") as f:
-        for entry in metadata:
-            f.write(json.dumps(entry) + "\n")
+    def _prepare_output_directory(self):
+        current_out_dir = self.out_dir / self.timestamp
+        current_out_dir.mkdir(parents=True, exist_ok=True)
+        
+        OmegaConf.save(config=self.cfg, f=str(current_out_dir / "config.yaml"))
+        return current_out_dir
+
+    def _load_prompts(self):
+        with open(self.prompts_path, "r", encoding="utf-8") as f:
+            return [line.strip() for line in f if line.strip()]
+        
+
+    def generate_images(self):
+        prompts = self._load_prompts()
+        metadata = []
+
+        generator = torch.Generator(device=self.device).manual_seed(self.seed)
+        
+        for i, prompt in enumerate(prompts):
+            
+            output = self.pipe(
+                prompt=prompt,
+                guidance_scale=self.cfg_scale,
+                num_inference_steps=self.num_inference_steps,
+                generator=generator
+            )
+            image = output.images[0]
+
+            img_filename = f"image_{i:04d}.png"
+            img_path = self.current_out_dir / img_filename
+            image.save(img_path)
+
+            metadata.append({
+                "image_path": str(img_path.relative_to(self.base_dir)),
+                "prompt": prompt,
+            })
+
+            if (i + 1) % 10 == 0 or (i + 1) == len(prompts):
+                print(f"Generated {i+1}/{len(prompts)} images...")
+
+        metadata_path = self.current_out_dir / "metadata.jsonl"
+        with open(metadata_path, "w", encoding="utf-8") as f:
+            for item in metadata:
+                f.write(json.dumps(item) + "\n")
+
+        print(f"\n Export complete: {metadata_path}, {self.current_out_dir}")
+
+
+@hydra.main(config_path="conf", config_name="sd")
+def main(cfg: DictConfig):
+    generator = StableDiffusionImageGenerator(cfg)
+    generator.generate_images()
 
 
 if __name__ == "__main__":

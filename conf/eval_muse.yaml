@@ -1,0 +1,4 @@
+repo_id: runwayml/stable-diffusion-v1-5
+model_name: null
+prompts_file: /home/naumov/code/general-pipeline/submodules/EvalMuseMini/data/dataset/prompts.json
+device: cuda
