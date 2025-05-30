@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 defaults:
   - _self_
 
@@ -8,3 +9,12 @@ device: cuda
 num_inference_steps: 35
 cfg_scale: 7.5
 output_path: output/
+=======
+model_id: "runwayml/stable-diffusion-v1-5"
+num_inference_steps: 30
+seed: 0
+cfg_scale: 7.5
+output_path: "./data/generated_images"
+device: "cuda"
+prompts_path: "./data/prompts.txt"
+>>>>>>> 2498f22 (upd: add conf support)

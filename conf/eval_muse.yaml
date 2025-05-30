@@ -1,4 +1,6 @@
-repo_id: runwayml/stable-diffusion-v1-5
+defaults:
+  - _self_
+
+prompts_file: ${hydra:runtime.cwd}/submodules/EvalMuseMini/data/dataset/prompts.json
+repo_id: stable-diffusion-v1-5/stable-diffusion-v1-5
 model_name: null
-prompts_file: /home/naumov/code/general-pipeline/submodules/EvalMuseMini/data/dataset/prompts.json
-device: cuda
