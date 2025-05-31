@@ -42,5 +42,1019 @@
         "split_confidence": 0.333333,
         "attribute_confidence": 0.0,
         "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "PixArt-alpha/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SDXL/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SD_v2.1/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SD_v1.5/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "PixArt-alpha/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SDXL/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SD_v2.1/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SD_v1.5/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01076",
+        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01076.png",
+        "total_score": null,
+        "element_score": {
+            "forest (location)": null,
+            "big trees (object)": null,
+            "light (object)": null,
+            "shadow (object)": null,
+            "depth (attribute)": null,
+            "movement (attribute)": null,
+            "brushwork (activity)": null,
+            "color palette (object)": null,
+            "light angle (attribute)": null,
+            "enchanted (attribute)": null,
+            "intricate details (attribute)": null,
+            "tons of (counting)": null,
+            "deep illumination (attribute)": null,
+            "beautiful use of light and shadow (activity)": null,
+            "energetic (attribute)": null,
+            "limited (attribute)": null,
+            "left at 1 0 degrees (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01076",
+        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
+        "type": "real",
+        "img_path": "SDXL/01076.png",
+        "total_score": null,
+        "element_score": {
+            "forest (location)": null,
+            "big trees (object)": null,
+            "light (object)": null,
+            "shadow (object)": null,
+            "depth (attribute)": null,
+            "movement (attribute)": null,
+            "brushwork (activity)": null,
+            "color palette (object)": null,
+            "light angle (attribute)": null,
+            "enchanted (attribute)": null,
+            "intricate details (attribute)": null,
+            "tons of (counting)": null,
+            "deep illumination (attribute)": null,
+            "beautiful use of light and shadow (activity)": null,
+            "energetic (attribute)": null,
+            "limited (attribute)": null,
+            "left at 1 0 degrees (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01076",
+        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
+        "type": "real",
+        "img_path": "SD_v2.1/01076.png",
+        "total_score": null,
+        "element_score": {
+            "forest (location)": null,
+            "big trees (object)": null,
+            "light (object)": null,
+            "shadow (object)": null,
+            "depth (attribute)": null,
+            "movement (attribute)": null,
+            "brushwork (activity)": null,
+            "color palette (object)": null,
+            "light angle (attribute)": null,
+            "enchanted (attribute)": null,
+            "intricate details (attribute)": null,
+            "tons of (counting)": null,
+            "deep illumination (attribute)": null,
+            "beautiful use of light and shadow (activity)": null,
+            "energetic (attribute)": null,
+            "limited (attribute)": null,
+            "left at 1 0 degrees (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01076",
+        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
+        "type": "real",
+        "img_path": "SD_v1.5/01076.png",
+        "total_score": null,
+        "element_score": {
+            "forest (location)": null,
+            "big trees (object)": null,
+            "light (object)": null,
+            "shadow (object)": null,
+            "depth (attribute)": null,
+            "movement (attribute)": null,
+            "brushwork (activity)": null,
+            "color palette (object)": null,
+            "light angle (attribute)": null,
+            "enchanted (attribute)": null,
+            "intricate details (attribute)": null,
+            "tons of (counting)": null,
+            "deep illumination (attribute)": null,
+            "beautiful use of light and shadow (activity)": null,
+            "energetic (attribute)": null,
+            "limited (attribute)": null,
+            "left at 1 0 degrees (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01134",
+        "prompt": "flowers in window very bright and colorful abstract",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01134.png",
+        "total_score": null,
+        "element_score": {
+            "flowers (object)": null,
+            "window (object)": null,
+            "bright (attribute)": null,
+            "colorful (attribute)": null,
+            "abstract (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01134",
+        "prompt": "flowers in window very bright and colorful abstract",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01134.png",
+        "total_score": null,
+        "element_score": {
+            "flowers (object)": null,
+            "window (object)": null,
+            "bright (attribute)": null,
+            "colorful (attribute)": null,
+            "abstract (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01134",
+        "prompt": "flowers in window very bright and colorful abstract",
+        "type": "real",
+        "img_path": "PixArt-alpha/01134.png",
+        "total_score": null,
+        "element_score": {
+            "flowers (object)": null,
+            "window (object)": null,
+            "bright (attribute)": null,
+            "colorful (attribute)": null,
+            "abstract (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01134",
+        "prompt": "flowers in window very bright and colorful abstract",
+        "type": "real",
+        "img_path": "SDXL/01134.png",
+        "total_score": null,
+        "element_score": {
+            "flowers (object)": null,
+            "window (object)": null,
+            "bright (attribute)": null,
+            "colorful (attribute)": null,
+            "abstract (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01134",
+        "prompt": "flowers in window very bright and colorful abstract",
+        "type": "real",
+        "img_path": "SD_v2.1/01134.png",
+        "total_score": null,
+        "element_score": {
+            "flowers (object)": null,
+            "window (object)": null,
+            "bright (attribute)": null,
+            "colorful (attribute)": null,
+            "abstract (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01134",
+        "prompt": "flowers in window very bright and colorful abstract",
+        "type": "real",
+        "img_path": "SD_v1.5/01134.png",
+        "total_score": null,
+        "element_score": {
+            "flowers (object)": null,
+            "window (object)": null,
+            "bright (attribute)": null,
+            "colorful (attribute)": null,
+            "abstract (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00612",
+        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00612.png",
+        "total_score": null,
+        "element_score": {
+            "recording (attribute)": null,
+            "concrete pathway (object)": null,
+            "concrete walls (object)": null,
+            "arcs (object)": null,
+            "indoors (location)": null,
+            "windows (object)": null,
+            "liminal (attribute)": null,
+            "straight (shape)": null,
+            "white (color)": null,
+            "narrow (attribute)": null,
+            "perspective (attribute)": null,
+            "infinity (attribute)": null,
+            "pool water (object)": null,
+            "sunlight (object)": null,
+            "hazy (attribute)": null,
+            "detailed (attribute)": null,
+            "realistic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00612",
+        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
+        "type": "real",
+        "img_path": "PixArt-alpha/00612.png",
+        "total_score": null,
+        "element_score": {
+            "recording (attribute)": null,
+            "concrete pathway (object)": null,
+            "concrete walls (object)": null,
+            "arcs (object)": null,
+            "indoors (location)": null,
+            "windows (object)": null,
+            "liminal (attribute)": null,
+            "straight (shape)": null,
+            "white (color)": null,
+            "narrow (attribute)": null,
+            "perspective (attribute)": null,
+            "infinity (attribute)": null,
+            "pool water (object)": null,
+            "sunlight (object)": null,
+            "hazy (attribute)": null,
+            "detailed (attribute)": null,
+            "realistic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00612",
+        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
+        "type": "real",
+        "img_path": "SDXL/00612.png",
+        "total_score": null,
+        "element_score": {
+            "recording (attribute)": null,
+            "concrete pathway (object)": null,
+            "concrete walls (object)": null,
+            "arcs (object)": null,
+            "indoors (location)": null,
+            "windows (object)": null,
+            "liminal (attribute)": null,
+            "straight (shape)": null,
+            "white (color)": null,
+            "narrow (attribute)": null,
+            "perspective (attribute)": null,
+            "infinity (attribute)": null,
+            "pool water (object)": null,
+            "sunlight (object)": null,
+            "hazy (attribute)": null,
+            "detailed (attribute)": null,
+            "realistic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00612",
+        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
+        "type": "real",
+        "img_path": "SD_v2.1/00612.png",
+        "total_score": null,
+        "element_score": {
+            "recording (attribute)": null,
+            "concrete pathway (object)": null,
+            "concrete walls (object)": null,
+            "arcs (object)": null,
+            "indoors (location)": null,
+            "windows (object)": null,
+            "liminal (attribute)": null,
+            "straight (shape)": null,
+            "white (color)": null,
+            "narrow (attribute)": null,
+            "perspective (attribute)": null,
+            "infinity (attribute)": null,
+            "pool water (object)": null,
+            "sunlight (object)": null,
+            "hazy (attribute)": null,
+            "detailed (attribute)": null,
+            "realistic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00612",
+        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
+        "type": "real",
+        "img_path": "SD_v1.5/00612.png",
+        "total_score": null,
+        "element_score": {
+            "recording (attribute)": null,
+            "concrete pathway (object)": null,
+            "concrete walls (object)": null,
+            "arcs (object)": null,
+            "indoors (location)": null,
+            "windows (object)": null,
+            "liminal (attribute)": null,
+            "straight (shape)": null,
+            "white (color)": null,
+            "narrow (attribute)": null,
+            "perspective (attribute)": null,
+            "infinity (attribute)": null,
+            "pool water (object)": null,
+            "sunlight (object)": null,
+            "hazy (attribute)": null,
+            "detailed (attribute)": null,
+            "realistic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01474",
+        "prompt": "orthographic projection of a city and army tanks, ink drawing",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01474.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "army tanks (object)": null,
+            "orthographic projection (attribute)": null,
+            "ink drawing (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01474",
+        "prompt": "orthographic projection of a city and army tanks, ink drawing",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01474.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "army tanks (object)": null,
+            "orthographic projection (attribute)": null,
+            "ink drawing (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01474",
+        "prompt": "orthographic projection of a city and army tanks, ink drawing",
+        "type": "real",
+        "img_path": "PixArt-alpha/01474.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "army tanks (object)": null,
+            "orthographic projection (attribute)": null,
+            "ink drawing (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01474",
+        "prompt": "orthographic projection of a city and army tanks, ink drawing",
+        "type": "real",
+        "img_path": "SDXL/01474.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "army tanks (object)": null,
+            "orthographic projection (attribute)": null,
+            "ink drawing (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01474",
+        "prompt": "orthographic projection of a city and army tanks, ink drawing",
+        "type": "real",
+        "img_path": "SD_v2.1/01474.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "army tanks (object)": null,
+            "orthographic projection (attribute)": null,
+            "ink drawing (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01474",
+        "prompt": "orthographic projection of a city and army tanks, ink drawing",
+        "type": "real",
+        "img_path": "SD_v1.5/01474.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "army tanks (object)": null,
+            "orthographic projection (attribute)": null,
+            "ink drawing (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01794",
+        "prompt": "the titanic about to crash into a huge olive 2k",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01794.png",
+        "total_score": null,
+        "element_score": {
+            "titanic (object)": null,
+            "crash into (activity)": null,
+            "huge olive (object)": null,
+            "2k (other)": null
+        },
+        "promt_meaningless": 0.166667,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01794",
+        "prompt": "the titanic about to crash into a huge olive 2k",
+        "type": "real",
+        "img_path": "PixArt-alpha/01794.png",
+        "total_score": null,
+        "element_score": {
+            "titanic (object)": null,
+            "crash into (activity)": null,
+            "huge olive (object)": null,
+            "2k (other)": null
+        },
+        "promt_meaningless": 0.166667,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01794",
+        "prompt": "the titanic about to crash into a huge olive 2k",
+        "type": "real",
+        "img_path": "SDXL/01794.png",
+        "total_score": null,
+        "element_score": {
+            "titanic (object)": null,
+            "crash into (activity)": null,
+            "huge olive (object)": null,
+            "2k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01794",
+        "prompt": "the titanic about to crash into a huge olive 2k",
+        "type": "real",
+        "img_path": "SD_v2.1/01794.png",
+        "total_score": null,
+        "element_score": {
+            "titanic (object)": null,
+            "crash into (activity)": null,
+            "huge olive (object)": null,
+            "2k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01794",
+        "prompt": "the titanic about to crash into a huge olive 2k",
+        "type": "real",
+        "img_path": "SD_v1.5/01794.png",
+        "total_score": null,
+        "element_score": {
+            "titanic (object)": null,
+            "crash into (activity)": null,
+            "huge olive (object)": null,
+            "2k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01766",
+        "prompt": "the letter'u'",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01766.png",
+        "total_score": null,
+        "element_score": {
+            "letter 'u' (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01766",
+        "prompt": "the letter'u'",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01766.png",
+        "total_score": null,
+        "element_score": {
+            "letter 'u' (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01766",
+        "prompt": "the letter'u'",
+        "type": "real",
+        "img_path": "SDXL/01766.png",
+        "total_score": null,
+        "element_score": {
+            "letter 'u' (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01766",
+        "prompt": "the letter'u'",
+        "type": "real",
+        "img_path": "SD_v2.1/01766.png",
+        "total_score": null,
+        "element_score": {
+            "letter 'u' (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01766",
+        "prompt": "the letter'u'",
+        "type": "real",
+        "img_path": "SD_v1.5/01766.png",
+        "total_score": null,
+        "element_score": {
+            "letter 'u' (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00493",
+        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00493.png",
+        "total_score": null,
+        "element_score": {
+            "prawns (animal)": null,
+            "suits (object)": null,
+            "cards (object)": null,
+            "beer (food)": null,
+            "group (counting)": null,
+            "dressed in (activity)": null,
+            "playing (activity)": null,
+            "gambling (activity)": null,
+            "drinking (activity)": null,
+            "smoking (activity)": null,
+            "8 k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00493",
+        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00493.png",
+        "total_score": null,
+        "element_score": {
+            "prawns (animal)": null,
+            "suits (object)": null,
+            "cards (object)": null,
+            "beer (food)": null,
+            "group (counting)": null,
+            "dressed in (activity)": null,
+            "playing (activity)": null,
+            "gambling (activity)": null,
+            "drinking (activity)": null,
+            "smoking (activity)": null,
+            "8 k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00493",
+        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
+        "type": "real",
+        "img_path": "PixArt-alpha/00493.png",
+        "total_score": null,
+        "element_score": {
+            "prawns (animal)": null,
+            "suits (object)": null,
+            "cards (object)": null,
+            "beer (food)": null,
+            "group (counting)": null,
+            "dressed in (activity)": null,
+            "playing (activity)": null,
+            "gambling (activity)": null,
+            "drinking (activity)": null,
+            "smoking (activity)": null,
+            "8 k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00493",
+        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
+        "type": "real",
+        "img_path": "SD_v2.1/00493.png",
+        "total_score": null,
+        "element_score": {
+            "prawns (animal)": null,
+            "suits (object)": null,
+            "cards (object)": null,
+            "beer (food)": null,
+            "group (counting)": null,
+            "dressed in (activity)": null,
+            "playing (activity)": null,
+            "gambling (activity)": null,
+            "drinking (activity)": null,
+            "smoking (activity)": null,
+            "8 k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01001",
+        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01001.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "man (human)": null,
+            "soviet apartment (location)": null,
+            "desk (object)": null,
+            "sitting (activity)": null,
+            "turns behind (activity)": null,
+            "dark (attribute)": null,
+            "gaunt (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01001",
+        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01001.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "man (human)": null,
+            "soviet apartment (location)": null,
+            "desk (object)": null,
+            "sitting (activity)": null,
+            "turns behind (activity)": null,
+            "dark (attribute)": null,
+            "gaunt (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01001",
+        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "type": "real",
+        "img_path": "PixArt-alpha/01001.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "man (human)": null,
+            "soviet apartment (location)": null,
+            "desk (object)": null,
+            "sitting (activity)": null,
+            "turns behind (activity)": null,
+            "dark (attribute)": null,
+            "gaunt (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01001",
+        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "type": "real",
+        "img_path": "SD_v2.1/01001.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "man (human)": null,
+            "soviet apartment (location)": null,
+            "desk (object)": null,
+            "sitting (activity)": null,
+            "turns behind (activity)": null,
+            "dark (attribute)": null,
+            "gaunt (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01001",
+        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "type": "real",
+        "img_path": "SD_v1.5/01001.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "man (human)": null,
+            "soviet apartment (location)": null,
+            "desk (object)": null,
+            "sitting (activity)": null,
+            "turns behind (activity)": null,
+            "dark (attribute)": null,
+            "gaunt (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
     }
 ]
