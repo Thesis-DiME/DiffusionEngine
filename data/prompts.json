@@ -22,116 +22,6 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "00805",
-        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
-        "type": "real",
-        "img_path": "PixArt-Sigma/00805.png",
-        "total_score": null,
-        "element_score": {
-            "pig giants (animal)": null,
-            "attack (activity)": null,
-            "giant (attribute)": null,
-            "illustration (attribute)": null,
-            "children's book (object)": null,
-            "fictional drawing (attribute)": null,
-            "bright colors (color)": null,
-            "fantasy world (location)": null,
-            "minimalist (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00805",
-        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
-        "type": "real",
-        "img_path": "PixArt-alpha/00805.png",
-        "total_score": null,
-        "element_score": {
-            "pig giants (animal)": null,
-            "attack (activity)": null,
-            "giant (attribute)": null,
-            "illustration (attribute)": null,
-            "children's book (object)": null,
-            "fictional drawing (attribute)": null,
-            "bright colors (color)": null,
-            "fantasy world (location)": null,
-            "minimalist (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.666667,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00805",
-        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
-        "type": "real",
-        "img_path": "SDXL/00805.png",
-        "total_score": null,
-        "element_score": {
-            "pig giants (animal)": null,
-            "attack (activity)": null,
-            "giant (attribute)": null,
-            "illustration (attribute)": null,
-            "children's book (object)": null,
-            "fictional drawing (attribute)": null,
-            "bright colors (color)": null,
-            "fantasy world (location)": null,
-            "minimalist (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00805",
-        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
-        "type": "real",
-        "img_path": "SD_v2.1/00805.png",
-        "total_score": null,
-        "element_score": {
-            "pig giants (animal)": null,
-            "attack (activity)": null,
-            "giant (attribute)": null,
-            "illustration (attribute)": null,
-            "children's book (object)": null,
-            "fictional drawing (attribute)": null,
-            "bright colors (color)": null,
-            "fantasy world (location)": null,
-            "minimalist (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00805",
-        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
-        "type": "real",
-        "img_path": "SD_v1.5/00805.png",
-        "total_score": null,
-        "element_score": {
-            "pig giants (animal)": null,
-            "attack (activity)": null,
-            "giant (attribute)": null,
-            "illustration (attribute)": null,
-            "children's book (object)": null,
-            "fictional drawing (attribute)": null,
-            "bright colors (color)": null,
-            "fantasy world (location)": null,
-            "minimalist (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.666667,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
         "prompt_id": "00192",
         "prompt": "Forklift certification",
         "type": "real",
@@ -143,81 +33,6 @@
         },
         "promt_meaningless": 0.333333,
         "split_confidence": 0.666667,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00192",
-        "prompt": "Forklift certification",
-        "type": "real",
-        "img_path": "PixArt-Sigma/00192.png",
-        "total_score": null,
-        "element_score": {
-            "forklift (object)": null,
-            "certification (other)": null
-        },
-        "promt_meaningless": 0.333333,
-        "split_confidence": 0.666667,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00192",
-        "prompt": "Forklift certification",
-        "type": "real",
-        "img_path": "PixArt-alpha/00192.png",
-        "total_score": null,
-        "element_score": {
-            "forklift (object)": null,
-            "certification (other)": null
-        },
-        "promt_meaningless": 0.333333,
-        "split_confidence": 0.666667,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00192",
-        "prompt": "Forklift certification",
-        "type": "real",
-        "img_path": "SDXL/00192.png",
-        "total_score": null,
-        "element_score": {
-            "forklift (object)": null,
-            "certification (other)": null
-        },
-        "promt_meaningless": 0.333333,
-        "split_confidence": 0.666667,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00192",
-        "prompt": "Forklift certification",
-        "type": "real",
-        "img_path": "SD_v2.1/00192.png",
-        "total_score": null,
-        "element_score": {
-            "forklift (object)": null,
-            "certification (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.666667,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00192",
-        "prompt": "Forklift certification",
-        "type": "real",
-        "img_path": "SD_v1.5/00192.png",
-        "total_score": null,
-        "element_score": {
-            "forklift (object)": null,
-            "certification (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 1.0,
         "attribute_confidence": 1.0,
         "fidelity_label": null
     },
@@ -252,96 +67,6 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "01076",
-        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
-        "type": "real",
-        "img_path": "SDXL/01076.png",
-        "total_score": null,
-        "element_score": {
-            "forest (location)": null,
-            "big trees (object)": null,
-            "light (object)": null,
-            "shadow (object)": null,
-            "depth (attribute)": null,
-            "movement (attribute)": null,
-            "brushwork (activity)": null,
-            "color palette (object)": null,
-            "light angle (attribute)": null,
-            "enchanted (attribute)": null,
-            "intricate details (attribute)": null,
-            "tons of (counting)": null,
-            "deep illumination (attribute)": null,
-            "beautiful use of light and shadow (activity)": null,
-            "energetic (attribute)": null,
-            "limited (attribute)": null,
-            "left at 1 0 degrees (spatial)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.5,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01076",
-        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
-        "type": "real",
-        "img_path": "SD_v2.1/01076.png",
-        "total_score": null,
-        "element_score": {
-            "forest (location)": null,
-            "big trees (object)": null,
-            "light (object)": null,
-            "shadow (object)": null,
-            "depth (attribute)": null,
-            "movement (attribute)": null,
-            "brushwork (activity)": null,
-            "color palette (object)": null,
-            "light angle (attribute)": null,
-            "enchanted (attribute)": null,
-            "intricate details (attribute)": null,
-            "tons of (counting)": null,
-            "deep illumination (attribute)": null,
-            "beautiful use of light and shadow (activity)": null,
-            "energetic (attribute)": null,
-            "limited (attribute)": null,
-            "left at 1 0 degrees (spatial)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.666667,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01076",
-        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
-        "type": "real",
-        "img_path": "SD_v1.5/01076.png",
-        "total_score": null,
-        "element_score": {
-            "forest (location)": null,
-            "big trees (object)": null,
-            "light (object)": null,
-            "shadow (object)": null,
-            "depth (attribute)": null,
-            "movement (attribute)": null,
-            "brushwork (activity)": null,
-            "color palette (object)": null,
-            "light angle (attribute)": null,
-            "enchanted (attribute)": null,
-            "intricate details (attribute)": null,
-            "tons of (counting)": null,
-            "deep illumination (attribute)": null,
-            "beautiful use of light and shadow (activity)": null,
-            "energetic (attribute)": null,
-            "limited (attribute)": null,
-            "left at 1 0 degrees (spatial)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.166667,
-        "attribute_confidence": 0.666667,
-        "fidelity_label": null
-    },
-    {
         "prompt_id": "01134",
         "prompt": "flowers in window very bright and colorful abstract",
         "type": "real",
@@ -360,220 +85,10 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "01134",
-        "prompt": "flowers in window very bright and colorful abstract",
-        "type": "real",
-        "img_path": "PixArt-Sigma/01134.png",
-        "total_score": null,
-        "element_score": {
-            "flowers (object)": null,
-            "window (object)": null,
-            "bright (attribute)": null,
-            "colorful (attribute)": null,
-            "abstract (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.5,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01134",
-        "prompt": "flowers in window very bright and colorful abstract",
-        "type": "real",
-        "img_path": "PixArt-alpha/01134.png",
-        "total_score": null,
-        "element_score": {
-            "flowers (object)": null,
-            "window (object)": null,
-            "bright (attribute)": null,
-            "colorful (attribute)": null,
-            "abstract (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01134",
-        "prompt": "flowers in window very bright and colorful abstract",
-        "type": "real",
-        "img_path": "SDXL/01134.png",
-        "total_score": null,
-        "element_score": {
-            "flowers (object)": null,
-            "window (object)": null,
-            "bright (attribute)": null,
-            "colorful (attribute)": null,
-            "abstract (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01134",
-        "prompt": "flowers in window very bright and colorful abstract",
-        "type": "real",
-        "img_path": "SD_v2.1/01134.png",
-        "total_score": null,
-        "element_score": {
-            "flowers (object)": null,
-            "window (object)": null,
-            "bright (attribute)": null,
-            "colorful (attribute)": null,
-            "abstract (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01134",
-        "prompt": "flowers in window very bright and colorful abstract",
-        "type": "real",
-        "img_path": "SD_v1.5/01134.png",
-        "total_score": null,
-        "element_score": {
-            "flowers (object)": null,
-            "window (object)": null,
-            "bright (attribute)": null,
-            "colorful (attribute)": null,
-            "abstract (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
         "prompt_id": "00612",
         "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
         "type": "real",
         "img_path": "PixArt-Sigma/00612.png",
-        "total_score": null,
-        "element_score": {
-            "recording (attribute)": null,
-            "concrete pathway (object)": null,
-            "concrete walls (object)": null,
-            "arcs (object)": null,
-            "indoors (location)": null,
-            "windows (object)": null,
-            "liminal (attribute)": null,
-            "straight (shape)": null,
-            "white (color)": null,
-            "narrow (attribute)": null,
-            "perspective (attribute)": null,
-            "infinity (attribute)": null,
-            "pool water (object)": null,
-            "sunlight (object)": null,
-            "hazy (attribute)": null,
-            "detailed (attribute)": null,
-            "realistic (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00612",
-        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
-        "type": "real",
-        "img_path": "PixArt-alpha/00612.png",
-        "total_score": null,
-        "element_score": {
-            "recording (attribute)": null,
-            "concrete pathway (object)": null,
-            "concrete walls (object)": null,
-            "arcs (object)": null,
-            "indoors (location)": null,
-            "windows (object)": null,
-            "liminal (attribute)": null,
-            "straight (shape)": null,
-            "white (color)": null,
-            "narrow (attribute)": null,
-            "perspective (attribute)": null,
-            "infinity (attribute)": null,
-            "pool water (object)": null,
-            "sunlight (object)": null,
-            "hazy (attribute)": null,
-            "detailed (attribute)": null,
-            "realistic (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00612",
-        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
-        "type": "real",
-        "img_path": "SDXL/00612.png",
-        "total_score": null,
-        "element_score": {
-            "recording (attribute)": null,
-            "concrete pathway (object)": null,
-            "concrete walls (object)": null,
-            "arcs (object)": null,
-            "indoors (location)": null,
-            "windows (object)": null,
-            "liminal (attribute)": null,
-            "straight (shape)": null,
-            "white (color)": null,
-            "narrow (attribute)": null,
-            "perspective (attribute)": null,
-            "infinity (attribute)": null,
-            "pool water (object)": null,
-            "sunlight (object)": null,
-            "hazy (attribute)": null,
-            "detailed (attribute)": null,
-            "realistic (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00612",
-        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
-        "type": "real",
-        "img_path": "SD_v2.1/00612.png",
-        "total_score": null,
-        "element_score": {
-            "recording (attribute)": null,
-            "concrete pathway (object)": null,
-            "concrete walls (object)": null,
-            "arcs (object)": null,
-            "indoors (location)": null,
-            "windows (object)": null,
-            "liminal (attribute)": null,
-            "straight (shape)": null,
-            "white (color)": null,
-            "narrow (attribute)": null,
-            "perspective (attribute)": null,
-            "infinity (attribute)": null,
-            "pool water (object)": null,
-            "sunlight (object)": null,
-            "hazy (attribute)": null,
-            "detailed (attribute)": null,
-            "realistic (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.166667,
-        "attribute_confidence": 0.666667,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00612",
-        "prompt": "a recording of a liminal concrete pathway, straight concrete walls, arcs, indoors, white narrow windows, perspective, stretching to infinity, flooded with clear pool water, rays of sunlight, hazy, very detailed, realistic",
-        "type": "real",
-        "img_path": "SD_v1.5/00612.png",
         "total_score": null,
         "element_score": {
             "recording (attribute)": null,
@@ -617,91 +132,6 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "01474",
-        "prompt": "orthographic projection of a city and army tanks, ink drawing",
-        "type": "real",
-        "img_path": "PixArt-Sigma/01474.png",
-        "total_score": null,
-        "element_score": {
-            "city (location)": null,
-            "army tanks (object)": null,
-            "orthographic projection (attribute)": null,
-            "ink drawing (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01474",
-        "prompt": "orthographic projection of a city and army tanks, ink drawing",
-        "type": "real",
-        "img_path": "PixArt-alpha/01474.png",
-        "total_score": null,
-        "element_score": {
-            "city (location)": null,
-            "army tanks (object)": null,
-            "orthographic projection (attribute)": null,
-            "ink drawing (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01474",
-        "prompt": "orthographic projection of a city and army tanks, ink drawing",
-        "type": "real",
-        "img_path": "SDXL/01474.png",
-        "total_score": null,
-        "element_score": {
-            "city (location)": null,
-            "army tanks (object)": null,
-            "orthographic projection (attribute)": null,
-            "ink drawing (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01474",
-        "prompt": "orthographic projection of a city and army tanks, ink drawing",
-        "type": "real",
-        "img_path": "SD_v2.1/01474.png",
-        "total_score": null,
-        "element_score": {
-            "city (location)": null,
-            "army tanks (object)": null,
-            "orthographic projection (attribute)": null,
-            "ink drawing (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01474",
-        "prompt": "orthographic projection of a city and army tanks, ink drawing",
-        "type": "real",
-        "img_path": "SD_v1.5/01474.png",
-        "total_score": null,
-        "element_score": {
-            "city (location)": null,
-            "army tanks (object)": null,
-            "orthographic projection (attribute)": null,
-            "ink drawing (attribute)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.0,
-        "fidelity_label": null
-    },
-    {
         "prompt_id": "01794",
         "prompt": "the titanic about to crash into a huge olive 2k",
         "type": "real",
@@ -719,134 +149,10 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "01794",
-        "prompt": "the titanic about to crash into a huge olive 2k",
-        "type": "real",
-        "img_path": "PixArt-alpha/01794.png",
-        "total_score": null,
-        "element_score": {
-            "titanic (object)": null,
-            "crash into (activity)": null,
-            "huge olive (object)": null,
-            "2k (other)": null
-        },
-        "promt_meaningless": 0.166667,
-        "split_confidence": 0.166667,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01794",
-        "prompt": "the titanic about to crash into a huge olive 2k",
-        "type": "real",
-        "img_path": "SDXL/01794.png",
-        "total_score": null,
-        "element_score": {
-            "titanic (object)": null,
-            "crash into (activity)": null,
-            "huge olive (object)": null,
-            "2k (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01794",
-        "prompt": "the titanic about to crash into a huge olive 2k",
-        "type": "real",
-        "img_path": "SD_v2.1/01794.png",
-        "total_score": null,
-        "element_score": {
-            "titanic (object)": null,
-            "crash into (activity)": null,
-            "huge olive (object)": null,
-            "2k (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.666667,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01794",
-        "prompt": "the titanic about to crash into a huge olive 2k",
-        "type": "real",
-        "img_path": "SD_v1.5/01794.png",
-        "total_score": null,
-        "element_score": {
-            "titanic (object)": null,
-            "crash into (activity)": null,
-            "huge olive (object)": null,
-            "2k (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
         "prompt_id": "01766",
         "prompt": "the letter'u'",
         "type": "real",
         "img_path": "SDXL-Turbo/01766.png",
-        "total_score": null,
-        "element_score": {
-            "letter 'u' (object)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01766",
-        "prompt": "the letter'u'",
-        "type": "real",
-        "img_path": "PixArt-Sigma/01766.png",
-        "total_score": null,
-        "element_score": {
-            "letter 'u' (object)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.666667,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01766",
-        "prompt": "the letter'u'",
-        "type": "real",
-        "img_path": "SDXL/01766.png",
-        "total_score": null,
-        "element_score": {
-            "letter 'u' (object)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01766",
-        "prompt": "the letter'u'",
-        "type": "real",
-        "img_path": "SD_v2.1/01766.png",
-        "total_score": null,
-        "element_score": {
-            "letter 'u' (object)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 1.0,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "01766",
-        "prompt": "the letter'u'",
-        "type": "real",
-        "img_path": "SD_v1.5/01766.png",
         "total_score": null,
         "element_score": {
             "letter 'u' (object)": null
@@ -881,78 +187,6 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "00493",
-        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
-        "type": "real",
-        "img_path": "PixArt-Sigma/00493.png",
-        "total_score": null,
-        "element_score": {
-            "prawns (animal)": null,
-            "suits (object)": null,
-            "cards (object)": null,
-            "beer (food)": null,
-            "group (counting)": null,
-            "dressed in (activity)": null,
-            "playing (activity)": null,
-            "gambling (activity)": null,
-            "drinking (activity)": null,
-            "smoking (activity)": null,
-            "8 k (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.166667,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00493",
-        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
-        "type": "real",
-        "img_path": "PixArt-alpha/00493.png",
-        "total_score": null,
-        "element_score": {
-            "prawns (animal)": null,
-            "suits (object)": null,
-            "cards (object)": null,
-            "beer (food)": null,
-            "group (counting)": null,
-            "dressed in (activity)": null,
-            "playing (activity)": null,
-            "gambling (activity)": null,
-            "drinking (activity)": null,
-            "smoking (activity)": null,
-            "8 k (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
-        "prompt_id": "00493",
-        "prompt": "a group of prawns dressed in suits playing cards, gambling, drinking beer, smoking 8 k",
-        "type": "real",
-        "img_path": "SD_v2.1/00493.png",
-        "total_score": null,
-        "element_score": {
-            "prawns (animal)": null,
-            "suits (object)": null,
-            "cards (object)": null,
-            "beer (food)": null,
-            "group (counting)": null,
-            "dressed in (activity)": null,
-            "playing (activity)": null,
-            "gambling (activity)": null,
-            "drinking (activity)": null,
-            "smoking (activity)": null,
-            "8 k (other)": null
-        },
-        "promt_meaningless": 0.0,
-        "split_confidence": 0.0,
-        "attribute_confidence": 0.333333,
-        "fidelity_label": null
-    },
-    {
         "prompt_id": "01001",
         "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
         "type": "real",
@@ -974,62 +208,116 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "01001",
-        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "prompt_id": "00142",
+        "prompt": "An oil painting depicting two llamas cuddling on a bed on top of a wool rainbow bedspread",
         "type": "real",
-        "img_path": "PixArt-Sigma/01001.png",
+        "img_path": "SDXL-Turbo/00142.png",
         "total_score": null,
         "element_score": {
-            "oil painting (object)": null,
-            "man (human)": null,
-            "soviet apartment (location)": null,
-            "desk (object)": null,
-            "sitting (activity)": null,
-            "turns behind (activity)": null,
-            "dark (attribute)": null,
-            "gaunt (attribute)": null
+            "oil painting (attribute)": null,
+            "llamas (animal)": null,
+            "bed (object)": null,
+            "wool rainbow bedspread (object)": null,
+            "depicting (activity)": null,
+            "cuddling (activity)": null,
+            "on top of (spatial)": null,
+            "two (counting)": null,
+            "wool (material)": null,
+            "rainbow (color)": null
         },
         "promt_meaningless": 0.0,
         "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
+        "attribute_confidence": 0.0,
         "fidelity_label": null
     },
     {
-        "prompt_id": "01001",
-        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "prompt_id": "00356",
+        "prompt": "a blue beetle car with burgers for wheels m - w 7 6 8",
         "type": "real",
-        "img_path": "PixArt-alpha/01001.png",
+        "img_path": "PixArt-Sigma/00356.png",
         "total_score": null,
         "element_score": {
-            "oil painting (object)": null,
-            "man (human)": null,
-            "soviet apartment (location)": null,
-            "desk (object)": null,
-            "sitting (activity)": null,
-            "turns behind (activity)": null,
-            "dark (attribute)": null,
-            "gaunt (attribute)": null
+            "beetle car (object)": null,
+            "burgers (food)": null,
+            "wheels (object)": null,
+            "blue (color)": null,
+            "m - w 7 6 8 (other)": null
         },
         "promt_meaningless": 0.0,
-        "split_confidence": 0.333333,
-        "attribute_confidence": 0.333333,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.666667,
         "fidelity_label": null
     },
     {
-        "prompt_id": "01001",
-        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "prompt_id": "01483",
+        "prompt": "panorama of a city at night from a low perspective",
         "type": "real",
-        "img_path": "SD_v2.1/01001.png",
+        "img_path": "SDXL-Turbo/01483.png",
         "total_score": null,
         "element_score": {
-            "oil painting (object)": null,
-            "man (human)": null,
-            "soviet apartment (location)": null,
-            "desk (object)": null,
-            "sitting (activity)": null,
-            "turns behind (activity)": null,
-            "dark (attribute)": null,
-            "gaunt (attribute)": null
+            "city (location)": null,
+            "night (attribute)": null,
+            "low perspective (attribute)": null,
+            "panorama (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00168",
+        "prompt": "Cover art for a song titled: 'When Life Seems to Drag On Forever'.",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00168.png",
+        "total_score": null,
+        "element_score": {
+            "cover art (object)": null,
+            "song (other)": null,
+            "When Life Seems to Drag On Forever' (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00678",
+        "prompt": "a very high image of a graphic menu for a grill house, graphic, template, design, cool, grill, food photography, no text",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00678.png",
+        "total_score": null,
+        "element_score": {
+            "image (object)": null,
+            "graphic menu (object)": null,
+            "grill house (location)": null,
+            "graphic (attribute)": null,
+            "template (attribute)": null,
+            "design (attribute)": null,
+            "cool (attribute)": null,
+            "grill (object)": null,
+            "food photography (activity)": null,
+            "no text (attribute)": null,
+            "very high (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01831",
+        "prompt": "tornado of mathematical symbols and equations and graphs on a white background",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01831.png",
+        "total_score": null,
+        "element_score": {
+            "tornado (object)": null,
+            "mathematical symbols (object)": null,
+            "equations (object)": null,
+            "graphs (object)": null,
+            "white (color)": null,
+            "background (location)": null
         },
         "promt_meaningless": 0.0,
         "split_confidence": 0.333333,
@@ -1037,24 +325,3791 @@
         "fidelity_label": null
     },
     {
-        "prompt_id": "01001",
-        "prompt": "dark oil painting a gaunt man in soviet apartment sitting on a desk suddenly turns behind himself",
+        "prompt_id": "00384",
+        "prompt": "a car from the year 2 5 0 0",
         "type": "real",
-        "img_path": "SD_v1.5/01001.png",
+        "img_path": "SDXL-Turbo/00384.png",
         "total_score": null,
         "element_score": {
-            "oil painting (object)": null,
-            "man (human)": null,
-            "soviet apartment (location)": null,
-            "desk (object)": null,
-            "sitting (activity)": null,
-            "turns behind (activity)": null,
-            "dark (attribute)": null,
-            "gaunt (attribute)": null
+            "car (object)": null,
+            "year 2 5 0 0 (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00178",
+        "prompt": "Drawing of a capybara spitting fire. Digital Art. High Quality. High Fidelity.",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00178.png",
+        "total_score": null,
+        "element_score": {
+            "capybara (animal)": null,
+            "fire (object)": null,
+            "spitting (activity)": null,
+            "drawing (attribute)": null,
+            "digital art (attribute)": null,
+            "high quality (attribute)": null,
+            "high fidelity (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00486",
+        "prompt": "a golden priest with a power and a scepter in his hands, digital art, concept art, high detailed",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00486.png",
+        "total_score": null,
+        "element_score": {
+            "priest (human)": null,
+            "power (object)": null,
+            "scepter (object)": null,
+            "hands (other)": null,
+            "digital art (other)": null,
+            "concept art (other)": null,
+            "high detailed (attribute)": null,
+            "golden (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00233",
+        "prompt": "Mountain lake landscape vector illustration. Cartoon flat panorama of spring summer beautiful nature, green grasslands meadow with flowers, forest, scenic blue lake and mountains on horizon background",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00233.png",
+        "total_score": null,
+        "element_score": {
+            "mountain lake (location)": null,
+            "landscape (location)": null,
+            "vector illustration (attribute)": null,
+            "panorama (attribute)": null,
+            "nature (location)": null,
+            "grasslands (location)": null,
+            "meadow (location)": null,
+            "flowers (object)": null,
+            "forest (location)": null,
+            "lake (location)": null,
+            "mountains (location)": null,
+            "horizon (location)": null,
+            "background (attribute)": null,
+            "spring (attribute)": null,
+            "summer (attribute)": null,
+            "green (color)": null,
+            "blue (color)": null,
+            "beautiful (attribute)": null,
+            "cartoon flat (attribute)": null,
+            "scenic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00370",
+        "prompt": "a brown teddy bear waving, on a blue fire balloon with brown basket, an illustration on a invitation card, clouds on light blue background, hand writing title, harmonized, flat water color texture, graphic design contest winner",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00370.png",
+        "total_score": null,
+        "element_score": {
+            "teddy bear (object)": null,
+            "waving (activity)": null,
+            "fire balloon (object)": null,
+            "basket (object)": null,
+            "illustration (object)": null,
+            "invitation card (object)": null,
+            "clouds (object)": null,
+            "title (object)": null,
+            "graphic design contest winner (other)": null,
+            "brown (color)": null,
+            "blue (color)": null,
+            "light blue (color)": null,
+            "flat (shape)": null,
+            "water color texture (attribute)": null,
+            "harmonized (attribute)": null,
+            "on (spatial)": null,
+            "hand writing (activity)": null,
+            "background (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00005",
+        "prompt": "' you should not do that ', picture of a barn owl.",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00005.png",
+        "total_score": null,
+        "element_score": {
+            "barn owl (animal)": null,
+            "you should not do that (other)": null,
+            "picture (attribute)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01218",
+        "prompt": "he found a leprechaun in his walnut shell",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01218.png",
+        "total_score": null,
+        "element_score": {
+            "he (human)": null,
+            "leprechaun (human)": null,
+            "walnut shell (object)": null,
+            "found (activity)": null,
+            "in (spatial)": null
         },
         "promt_meaningless": 0.0,
         "split_confidence": 0.333333,
         "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00834",
+        "prompt": "biblical brave little toaster",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00834.png",
+        "total_score": null,
+        "element_score": {
+            "biblical (other)": null,
+            "brave (attribute)": null,
+            "little toaster (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01225",
+        "prompt": "high quality painting of the word vitriol",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01225.png",
+        "total_score": null,
+        "element_score": {
+            "painting (object)": null,
+            "word vitriol (object)": null,
+            "high quality (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01865",
+        "prompt": "unreal, human figure made of zero and one codes, detailed, surreal",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01865.png",
+        "total_score": null,
+        "element_score": {
+            "human figure (human)": null,
+            "zero and one codes (other)": null,
+            "unreal (attribute)": null,
+            "detailed (attribute)": null,
+            "surreal (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01971",
+        "prompt": "“tall Goblin orangutan hybrid with mange holding a spear, jungle background” n-9",
+        "type": "real",
+        "img_path": "PixArt-alpha/01971.png",
+        "total_score": null,
+        "element_score": {
+            "Goblin (other)": null,
+            "orangutan (animal)": null,
+            "mange (attribute)": null,
+            "spear (object)": null,
+            "jungle (location)": null,
+            "tall (attribute)": null,
+            "holding (activity)": null,
+            "n-9 (other)": null,
+            "hybrid (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00040",
+        "prompt": "3d render of a midi keyboard, 8k, unreal engine, high octane",
+        "type": "real",
+        "img_path": "SD_v2.1/00040.png",
+        "total_score": null,
+        "element_score": {
+            "midi keyboard (object)": null,
+            "3d render (attribute)": null,
+            "8k (attribute)": null,
+            "unreal engine (other)": null,
+            "high octane (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.166667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00944",
+        "prompt": "close up shot of a lemon tree, award winning photography",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00944.png",
+        "total_score": null,
+        "element_score": {
+            "lemon tree (object)": null,
+            "close up shot (attribute)": null,
+            "award winning photography (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00102",
+        "prompt": "A painting entitled Simple binary system developing the capacity for self-reference, highly detailed, ornate",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00102.png",
+        "total_score": null,
+        "element_score": {
+            "painting (object)": null,
+            "Simple binary system developing the capacity for self-reference (other)": null,
+            "highly detailed (attribute)": null,
+            "ornate (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00754",
+        "prompt": "an f 1 train!!!!!!!!!! on its qualifying lap, on a racetrack",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00754.png",
+        "total_score": null,
+        "element_score": {
+            "f 1 train (object)": null,
+            "qualifying lap (activity)": null,
+            "racetrack (location)": null,
+            "on (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00161",
+        "prompt": "Cartoon of a pirate talking to a bacteria",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00161.png",
+        "total_score": null,
+        "element_score": {
+            "cartoon (attribute)": null,
+            "pirate (human)": null,
+            "bacteria (other)": null,
+            "talking (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01398",
+        "prompt": "medical illustration of a burrito, scientific english cross - section",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01398.png",
+        "total_score": null,
+        "element_score": {
+            "burrito (food)": null,
+            "medical illustration (activity)": null,
+            "scientific english cross - section (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00733",
+        "prompt": "an airplane with a fish face",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00733.png",
+        "total_score": null,
+        "element_score": {
+            "airplane (object)": null,
+            "fish face (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01154",
+        "prompt": "full length painting of prison cell inside a cave, prisoners inside, prisoners holding bars, highly detailed, high resolution, oil in canvas",
+        "type": "real",
+        "img_path": "PixArt-alpha/01154.png",
+        "total_score": null,
+        "element_score": {
+            "painting (object)": null,
+            "prison cell (object)": null,
+            "cave (location)": null,
+            "prisoners (human)": null,
+            "bars (object)": null,
+            "full length (attribute)": null,
+            "highly detailed (attribute)": null,
+            "high resolution (attribute)": null,
+            "oil in canvas (material)": null,
+            "holding (activity)": null,
+            "inside (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01884",
+        "prompt": "walking on a path through a mushroom forest on fire, first person view, photorealistic 4k",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01884.png",
+        "total_score": null,
+        "element_score": {
+            "path (location)": null,
+            "mushroom forest (location)": null,
+            "fire (object)": null,
+            "first person view (attribute)": null,
+            "photorealistic 4k (attribute)": null,
+            "walking (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01496",
+        "prompt": "photo of a cat - headed band playing on stage, dressed in 1 9 8 0's new wave clothes",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01496.png",
+        "total_score": null,
+        "element_score": {
+            "cat - headed band (other)": null,
+            "stage (location)": null,
+            "playing (activity)": null,
+            "clothes (object)": null,
+            "photo (attribute)": null,
+            "1 9 8 0's new wave clothes (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01233",
+        "prompt": "historical figures walking in line",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01233.png",
+        "total_score": null,
+        "element_score": {
+            "historical figures (human)": null,
+            "walking (activity)": null,
+            "in line (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01564",
+        "prompt": "pumpkin headed man. - n 5",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01564.png",
+        "total_score": null,
+        "element_score": {
+            "pumpkin headed man (other)": null,
+            "n 5 (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00430",
+        "prompt": "a delicious looking glass of a rainbow colored drink eyeballs mixing intensely",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00430.png",
+        "total_score": null,
+        "element_score": {
+            "glass (object)": null,
+            "rainbow colored drink (food)": null,
+            "eyeballs (object)": null,
+            "delicious looking (attribute)": null,
+            "mixing intensely (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01645",
+        "prompt": "sleeping man as a patent drawing. technical drawing. mathematical. anatomy. pajamas. blueprint.",
+        "type": "real",
+        "img_path": "PixArt-alpha/01645.png",
+        "total_score": null,
+        "element_score": {
+            "man (human)": null,
+            "sleeping (activity)": null,
+            "patent drawing (attribute)": null,
+            "technical drawing (attribute)": null,
+            "mathematical (attribute)": null,
+            "anatomy (attribute)": null,
+            "pajamas (object)": null,
+            "blueprint (object)": null
+        },
+        "promt_meaningless": 0.166667,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00428",
+        "prompt": "a dark oil painting of a glowing blue ring suspended in a dark night sky",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00428.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "ring (object)": null,
+            "night sky (location)": null,
+            "dark (attribute)": null,
+            "glowing (attribute)": null,
+            "blue (color)": null,
+            "suspended (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01857",
+        "prompt": "ultra realistic photo, wallpaper, high waterfalls, lake, flowers, insanely detailed plants, natural day lighting, pictures of landscapes, nature photo award, detail red lianas, blue rocks walls",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01857.png",
+        "total_score": null,
+        "element_score": {
+            "photo (attribute)": null,
+            "wallpaper (attribute)": null,
+            "waterfalls (object)": null,
+            "lake (location)": null,
+            "flowers (object)": null,
+            "plants (object)": null,
+            "day lighting (attribute)": null,
+            "landscapes (location)": null,
+            "nature photo award (attribute)": null,
+            "red lianas (object)": null,
+            "blue rocks walls (object)": null,
+            "ultra realistic (attribute)": null,
+            "insanely detailed (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00780",
+        "prompt": "an orchid flower made of flames",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00780.png",
+        "total_score": null,
+        "element_score": {
+            "orchid flower (object)": null,
+            "flames (object)": null,
+            "made of (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00307",
+        "prompt": "a 1 8 x 2 4 poster with the words no entry this way",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00307.png",
+        "total_score": null,
+        "element_score": {
+            "poster (object)": null,
+            "words (object)": null,
+            "no entry this way (other)": null,
+            "1 8 x 2 4 (shape)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01196",
+        "prompt": "grey tabby cat dressed in superhero costume detailed oil painting 4k",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01196.png",
+        "total_score": null,
+        "element_score": {
+            "tabby cat (animal)": null,
+            "superhero costume (object)": null,
+            "dressed (activity)": null,
+            "oil painting (attribute)": null,
+            "4k (attribute)": null,
+            "grey (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.166667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01973",
+        "prompt": "高 雄 市!!, dystopian, smog, red and blue ( ( light ) ), very detailed picture, oriental oil painting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01973.png",
+        "total_score": null,
+        "element_score": {
+            "高 雄 市 (location)": null,
+            "dystopian (attribute)": null,
+            "smog (object)": null,
+            "red and blue (color)": null,
+            "light (object)": null,
+            "very detailed picture (attribute)": null,
+            "oriental oil painting (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01037",
+        "prompt": "dog with glasses is driving",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01037.png",
+        "total_score": null,
+        "element_score": {
+            "dog (animal)": null,
+            "glasses (object)": null,
+            "driving (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00014",
+        "prompt": "1 9 7 0 s magazine illustration of a computer covered in paint splatter and glitter",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00014.png",
+        "total_score": null,
+        "element_score": {
+            "1 9 7 0 s (other)": null,
+            "magazine illustration (object)": null,
+            "computer (object)": null,
+            "paint splatter (object)": null,
+            "glitter (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01268",
+        "prompt": "illuminati, comic book, ray traced, being symbolized in media - 6",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01268.png",
+        "total_score": null,
+        "element_score": {
+            "illuminati (other)": null,
+            "comic book (object)": null,
+            "ray traced (attribute)": null,
+            "symbolized (activity)": null,
+            "media (other)": null,
+            "6 (counting)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00907",
+        "prompt": "cave painting of minions",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00907.png",
+        "total_score": null,
+        "element_score": {
+            "cave painting (object)": null,
+            "minions (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00002",
+        "prompt": "# defend the warrens in neon graffiti",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00002.png",
+        "total_score": null,
+        "element_score": {
+            "defend the warrens (other)": null,
+            "neon (color)": null,
+            "graffiti (object)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01898",
+        "prompt": "wave, blue and green, illustration, smooth, silky, dribble, very minimal, graphic design background",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01898.png",
+        "total_score": null,
+        "element_score": {
+            "wave (object)": null,
+            "blue (color)": null,
+            "green (color)": null,
+            "illustration (attribute)": null,
+            "smooth (attribute)": null,
+            "silky (attribute)": null,
+            "dribble (other)": null,
+            "very minimal (attribute)": null,
+            "graphic design background (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00897",
+        "prompt": "car made out of cake",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00897.png",
+        "total_score": null,
+        "element_score": {
+            "car (object)": null,
+            "cake (food)": null,
+            "made out of (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01570",
+        "prompt": "quiet still pool, oasis in cleft of rock overlooking sandy desert spotted with dead dead trees",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01570.png",
+        "total_score": null,
+        "element_score": {
+            "pool (object)": null,
+            "oasis (location)": null,
+            "cleft of rock (location)": null,
+            "sandy desert (location)": null,
+            "trees (object)": null,
+            "quiet (attribute)": null,
+            "still (attribute)": null,
+            "overlooking (activity)": null,
+            "spotted with (activity)": null,
+            "dead (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00169",
+        "prompt": "Cover art for a song titled: 'When Tim6 Seems to Drag On Forever'.",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00169.png",
+        "total_score": null,
+        "element_score": {
+            "Cover art (object)": null,
+            "song (object)": null,
+            "When Tim6 Seems to Drag On Forever' (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00980",
+        "prompt": "crab on beach on sand, sea in the background, sun is shining",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00980.png",
+        "total_score": null,
+        "element_score": {
+            "crab (animal)": null,
+            "beach (location)": null,
+            "sand (material)": null,
+            "sea (location)": null,
+            "background (attribute)": null,
+            "sun (object)": null,
+            "shining (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00114",
+        "prompt": "A sign with the words The end is nigh. Repent Sinners. Eat more Taco Bell in a rainy city",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00114.png",
+        "total_score": null,
+        "element_score": {
+            "sign (object)": null,
+            "words (other)": null,
+            "The end is nigh (other)": null,
+            "Repent Sinners (other)": null,
+            "Eat more Taco Bell (other)": null,
+            "rainy (attribute)": null,
+            "city (location)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01848",
+        "prompt": "two guys in a bike",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01848.png",
+        "total_score": null,
+        "element_score": {
+            "guys (human)": null,
+            "bike (object)": null,
+            "two (counting)": null,
+            "in (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01768",
+        "prompt": "the living room, overhead view",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01768.png",
+        "total_score": null,
+        "element_score": {
+            "living room (location)": null,
+            "overhead view (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01748",
+        "prompt": "the fool tarot, black and white watercolor painting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01748.png",
+        "total_score": null,
+        "element_score": {
+            "fool tarot (object)": null,
+            "black and white (color)": null,
+            "watercolor painting (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01935",
+        "prompt": "wooden polished hall wooden with green plants in pots 1 9 9 0",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01935.png",
+        "total_score": null,
+        "element_score": {
+            "hall (location)": null,
+            "plants (object)": null,
+            "pots (object)": null,
+            "wooden (material)": null,
+            "polished (attribute)": null,
+            "green (color)": null,
+            "1 9 9 0 (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01823",
+        "prompt": "too many cooks",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01823.png",
+        "total_score": null,
+        "element_score": {
+            "cooks (human)": null,
+            "too many (counting)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00514",
+        "prompt": "a illustration of a Eerie cabin in the middle of the woods in the style of borderlands",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00514.png",
+        "total_score": null,
+        "element_score": {
+            "cabin (object)": null,
+            "woods (location)": null,
+            "illustration (attribute)": null,
+            "Eerie (attribute)": null,
+            "middle (spatial)": null,
+            "style of borderlands (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01235",
+        "prompt": "holographic glass spheres on a red cube",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01235.png",
+        "total_score": null,
+        "element_score": {
+            "glass spheres (object)": null,
+            "red cube (object)": null,
+            "holographic (attribute)": null,
+            "on (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01253",
+        "prompt": "hybrid of a peanut and a hippopotamus",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01253.png",
+        "total_score": null,
+        "element_score": {
+            "peanut (food)": null,
+            "hippopotamus (animal)": null,
+            "hybrid (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00037",
+        "prompt": "3d colorful glass sphere emoticon smile,glass sphere , fluorescent, neon, centered , high detail, octane render -",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00037.png",
+        "total_score": null,
+        "element_score": {
+            "3d (attribute)": null,
+            "glass sphere (object)": null,
+            "emoticon smile (object)": null,
+            "fluorescent (attribute)": null,
+            "neon (color)": null,
+            "centered (attribute)": null,
+            "high detail (attribute)": null,
+            "octane render (other)": null,
+            "colorful (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01811",
+        "prompt": "tiling wall texture from doom",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01811.png",
+        "total_score": null,
+        "element_score": {
+            "wall (object)": null,
+            "tiling (attribute)": null,
+            "texture (attribute)": null,
+            "doom (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01636",
+        "prompt": "shot from below to the sky. field of frozen yellow flowers. two big rising suns",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01636.png",
+        "total_score": null,
+        "element_score": {
+            "sky (object)": null,
+            "field (location)": null,
+            "frozen yellow flowers (object)": null,
+            "two (counting)": null,
+            "rising suns (object)": null,
+            "shot from below (activity)": null,
+            "frozen (attribute)": null,
+            "yellow (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00757",
+        "prompt": "an icon of a metallic heart made of metallic iridescent material, 3D render, isometric perspective, dark background",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00757.png",
+        "total_score": null,
+        "element_score": {
+            "icon (object)": null,
+            "heart (object)": null,
+            "metallic iridescent material (material)": null,
+            "3D render (attribute)": null,
+            "isometric perspective (attribute)": null,
+            "dark background (attribute)": null,
+            "metallic (material)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00053",
+        "prompt": "A 33 year old tree, fantasy painting, lots of detail",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00053.png",
+        "total_score": null,
+        "element_score": {
+            "tree (object)": null,
+            "fantasy painting (attribute)": null,
+            "detail (attribute)": null,
+            "33 year old (counting)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00359",
+        "prompt": "a boat",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00359.png",
+        "total_score": null,
+        "element_score": {
+            "boat (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01339",
+        "prompt": "large old tall tree amongst the futuristic city beautiful Concept art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01339.png",
+        "total_score": null,
+        "element_score": {
+            "tree (object)": null,
+            "city (location)": null,
+            "large (attribute)": null,
+            "old (attribute)": null,
+            "tall (attribute)": null,
+            "futuristic (attribute)": null,
+            "beautiful (attribute)": null,
+            "Concept art (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01647",
+        "prompt": "small solar eclipse above mountains, highly detailed, photorealistic shot, bright studio setting, studio lighting, crisp quality and light reflections, unreal engine 5 quality render",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01647.png",
+        "total_score": null,
+        "element_score": {
+            "solar eclipse (object)": null,
+            "mountains (object)": null,
+            "shot (activity)": null,
+            "light reflections (object)": null,
+            "unreal engine 5 (other)": null,
+            "small (attribute)": null,
+            "highly detailed (attribute)": null,
+            "photorealistic (attribute)": null,
+            "bright (attribute)": null,
+            "studio setting (location)": null,
+            "studio lighting (object)": null,
+            "crisp quality (attribute)": null,
+            "render (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01047",
+        "prompt": "drawing of a happy sun as character, on beach",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01047.png",
+        "total_score": null,
+        "element_score": {
+            "sun (object)": null,
+            "character (attribute)": null,
+            "beach (location)": null,
+            "drawing (activity)": null,
+            "happy (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00366",
+        "prompt": "a botanical illustration of pears and thin leaves",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00366.png",
+        "total_score": null,
+        "element_score": {
+            "pears (food)": null,
+            "leaves (object)": null,
+            "botanical illustration (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01223",
+        "prompt": "high - quality renaissance portrait of a cat wearing a crusader helmet, very detailed, oil on canvas",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01223.png",
+        "total_score": null,
+        "element_score": {
+            "cat (animal)": null,
+            "crusader helmet (object)": null,
+            "portrait (activity)": null,
+            "high-quality (attribute)": null,
+            "renaissance (attribute)": null,
+            "detailed (attribute)": null,
+            "oil on canvas (material)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.166667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00520",
+        "prompt": "a lake high on a mountain",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00520.png",
+        "total_score": null,
+        "element_score": {
+            "lake (location)": null,
+            "mountain (location)": null,
+            "high on (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01374",
+        "prompt": "macro shot photography of back-lit refractive dew drops hanging from a dark silhouette of a thin plant with a blurred depth of field, warm orange blurred background light",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01374.png",
+        "total_score": null,
+        "element_score": {
+            "macro shot photography (activity)": null,
+            "dew drops (object)": null,
+            "plant (object)": null,
+            "blurred depth of field (attribute)": null,
+            "background light (object)": null,
+            "back-lit (attribute)": null,
+            "refractive (attribute)": null,
+            "dark silhouette (attribute)": null,
+            "thin (attribute)": null,
+            "warm orange (color)": null,
+            "blurred (attribute)": null,
+            "hanging from (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01181",
+        "prompt": "gold lines on black marble, texture",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01181.png",
+        "total_score": null,
+        "element_score": {
+            "gold lines (object)": null,
+            "black marble (material)": null,
+            "texture (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01407",
+        "prompt": "minimalist watercolor art baby elephant holding a colorful birthday balloon with trunk on blank all white background, illustration, vector art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01407.png",
+        "total_score": null,
+        "element_score": {
+            "watercolor art (activity)": null,
+            "baby elephant (animal)": null,
+            "birthday balloon (object)": null,
+            "trunk (object)": null,
+            "white background (color)": null,
+            "illustration (activity)": null,
+            "vector art (activity)": null,
+            "minimalist (attribute)": null,
+            "holding (activity)": null,
+            "colorful (attribute)": null,
+            "blank (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01675",
+        "prompt": "starting your car by screaming at it, very realistic, high definition",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01675.png",
+        "total_score": null,
+        "element_score": {
+            "car (object)": null,
+            "screaming at (activity)": null,
+            "starting your car (activity)": null,
+            "very realistic (attribute)": null,
+            "high definition (attribute)": null
+        },
+        "promt_meaningless": 0.166667,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00397",
+        "prompt": "a cat with a collar with a name tag that reads prompt",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00397.png",
+        "total_score": null,
+        "element_score": {
+            "cat (animal)": null,
+            "collar (object)": null,
+            "name tag (object)": null,
+            "reads (activity)": null,
+            "prompt (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01061",
+        "prompt": "eagle from the roman empire, lightning, shining iron light effect",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01061.png",
+        "total_score": null,
+        "element_score": {
+            "eagle (animal)": null,
+            "roman empire (location)": null,
+            "lightning (other)": null,
+            "shining iron light effect (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00903",
+        "prompt": "cartoon, doodle, vector, adobe illustrator, fat round hamster, tiny arms, big body, pastel, bright, simple lines, clean cut, close up, solid background",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00903.png",
+        "total_score": null,
+        "element_score": {
+            "cartoon (attribute)": null,
+            "doodle (attribute)": null,
+            "vector (attribute)": null,
+            "adobe illustrator (attribute)": null,
+            "hamster (animal)": null,
+            "arms (object)": null,
+            "body (object)": null,
+            "fat round (shape)": null,
+            "tiny (attribute)": null,
+            "big (attribute)": null,
+            "pastel (attribute)": null,
+            "bright (attribute)": null,
+            "simple lines (attribute)": null,
+            "clean cut (attribute)": null,
+            "close up (attribute)": null,
+            "solid background (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01392",
+        "prompt": "masterpiece abstract intricate painting of detailed multiple layers of rocky material. highly geometric slanting down. isometric angles. beautiful use of light and shadow to create a sense of depth. using architectural brushwork and a limited earthy color palette, providing a mathematical sketchy look.",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01392.png",
+        "total_score": null,
+        "element_score": {
+            "masterpiece (attribute)": null,
+            "abstract (attribute)": null,
+            "intricate (attribute)": null,
+            "painting (object)": null,
+            "rocky material (object)": null,
+            "geometric (attribute)": null,
+            "slanting down (activity)": null,
+            "isometric angles (attribute)": null,
+            "light and shadow (object)": null,
+            "sense of depth (attribute)": null,
+            "architectural brushwork (object)": null,
+            "earthy color palette (color)": null,
+            "mathematical sketchy look (attribute)": null,
+            "multiple layers (counting)": null,
+            "beautiful use (attribute)": null,
+            "detailed (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01920",
+        "prompt": "wide angle lens shot of a car racetrack with confetti on a sunny day with a clear blue sky",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01920.png",
+        "total_score": null,
+        "element_score": {
+            "wide angle lens shot (attribute)": null,
+            "car racetrack (location)": null,
+            "confetti (object)": null,
+            "sunny day (attribute)": null,
+            "clear blue sky (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00272",
+        "prompt": "Sun killing Moon on the morning, myth illustration, mystical realism, painting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00272.png",
+        "total_score": null,
+        "element_score": {
+            "Sun (object)": null,
+            "Moon (object)": null,
+            "morning (other)": null,
+            "myth illustration (activity)": null,
+            "mystical realism (other)": null,
+            "painting (activity)": null,
+            "killing (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00020",
+        "prompt": "1966 9-passenger station wagon",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00020.png",
+        "total_score": null,
+        "element_score": {
+            "1966 (other)": null,
+            "9-passenger station wagon (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00878",
+        "prompt": "bread man with cabbage",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00878.png",
+        "total_score": null,
+        "element_score": {
+            "bread man (object)": null,
+            "cabbage (food)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01349",
+        "prompt": "loads of uppercase letters, capital letters, typed with caps lock",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01349.png",
+        "total_score": null,
+        "element_score": {
+            "uppercase letters (object)": null,
+            "capital letters (object)": null,
+            "typed with caps lock (activity)": null,
+            "loads of (counting)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00555",
+        "prompt": "a mouse riding on a prancing cat, illustration, digital art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00555.png",
+        "total_score": null,
+        "element_score": {
+            "mouse (animal)": null,
+            "cat (animal)": null,
+            "riding (activity)": null,
+            "prancing (activity)": null,
+            "illustration (attribute)": null,
+            "digital art (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01051",
+        "prompt": "drinking coffee from the toilet",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01051.png",
+        "total_score": null,
+        "element_score": {
+            "drinking (activity)": null,
+            "coffee (food)": null,
+            "toilet (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00090",
+        "prompt": "A humanoid pear grinning monster, dark, blue light, black gradient background, oil painting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00090.png",
+        "total_score": null,
+        "element_score": {
+            "humanoid (attribute)": null,
+            "pear (object)": null,
+            "monster (animal)": null,
+            "grinning (activity)": null,
+            "dark (attribute)": null,
+            "blue light (attribute)": null,
+            "black gradient background (attribute)": null,
+            "oil painting (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00580",
+        "prompt": "a photo of a epic grand scale diorama of star wars figures and vehicles and buildings, canon, macro photography, tilt - shift photography",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00580.png",
+        "total_score": null,
+        "element_score": {
+            "photo (attribute)": null,
+            "diorama (object)": null,
+            "star wars figures (object)": null,
+            "vehicles (object)": null,
+            "buildings (object)": null,
+            "canon (other)": null,
+            "macro photography (activity)": null,
+            "tilt - shift photography (activity)": null,
+            "epic grand scale (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00268",
+        "prompt": "Space ships reaching a black hole horizon, Captain Hook on a starboard, digital art, perfect lighting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00268.png",
+        "total_score": null,
+        "element_score": {
+            "space ships (object)": null,
+            "black hole horizon (location)": null,
+            "Captain Hook (human)": null,
+            "starboard (location)": null,
+            "digital art (attribute)": null,
+            "perfect lighting (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01783",
+        "prompt": "the resistant starch rice meme, meme format",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01783.png",
+        "total_score": null,
+        "element_score": {
+            "resistant starch rice (object)": null,
+            "meme (other)": null,
+            "meme format (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01447",
+        "prompt": "octane 3 d render of an fire truck",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01447.png",
+        "total_score": null,
+        "element_score": {
+            "octane 3 d render (other)": null,
+            "fire truck (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01625",
+        "prompt": "seven camels practicing chaos magic in an old church",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01625.png",
+        "total_score": null,
+        "element_score": {
+            "camels (animal)": null,
+            "chaos magic (activity)": null,
+            "church (location)": null,
+            "practicing (activity)": null,
+            "old (attribute)": null,
+            "seven (counting)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00794",
+        "prompt": "apple on white background, with word apple carved on it's surface",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00794.png",
+        "total_score": null,
+        "element_score": {
+            "apple (food)": null,
+            "background (location)": null,
+            "word apple (other)": null,
+            "carved (activity)": null,
+            "white (color)": null,
+            "surface (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.5,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00213",
+        "prompt": "I sharpen my knife as I look down upon the bay",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00213.png",
+        "total_score": null,
+        "element_score": {
+            "I (human)": null,
+            "knife (object)": null,
+            "sharpen (activity)": null,
+            "look down upon (activity)": null,
+            "bay (location)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00438",
+        "prompt": "a detailed painting of an island covered with plantain trees surrounded by red sand",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00438.png",
+        "total_score": null,
+        "element_score": {
+            "painting (object)": null,
+            "island (location)": null,
+            "plantain trees (object)": null,
+            "red sand (object)": null,
+            "detailed (attribute)": null,
+            "covered with (activity)": null,
+            "surrounded by (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01401",
+        "prompt": "medical reference, anatomical illustration of a hand : : anatomy study of hand",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01401.png",
+        "total_score": null,
+        "element_score": {
+            "medical reference (other)": null,
+            "anatomical illustration (other)": null,
+            "hand (human)": null,
+            "anatomy study (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00990",
+        "prompt": "cute anime girl sleeping, high quality, award winning, digital art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00990.png",
+        "total_score": null,
+        "element_score": {
+            "anime girl (human)": null,
+            "sleeping (activity)": null,
+            "cute (attribute)": null,
+            "high quality (attribute)": null,
+            "award winning (attribute)": null,
+            "digital art (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00217",
+        "prompt": "Illustration of a baby daikon radish in a tutu walking a dog",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00217.png",
+        "total_score": null,
+        "element_score": {
+            "baby daikon radish (object)": null,
+            "tutu (object)": null,
+            "dog (animal)": null,
+            "walking (activity)": null,
+            "illustration (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00692",
+        "prompt": "a wide angle landscape of a prairie with a very large thin spire mountain in the distance and a wide river running in the middle of the frame with a city upon the river in the style of rococo digital painting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00692.png",
+        "total_score": null,
+        "element_score": {
+            "landscape (location)": null,
+            "prairie (location)": null,
+            "mountain (object)": null,
+            "river (object)": null,
+            "city (location)": null,
+            "wide angle (attribute)": null,
+            "thin (attribute)": null,
+            "very large (attribute)": null,
+            "running (activity)": null,
+            "rococo digital painting (other)": null,
+            "distance (spatial)": null,
+            "middle (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00193",
+        "prompt": "French Fries and Spaghetti on Pizza. Shoestring-Fries on top",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00193.png",
+        "total_score": null,
+        "element_score": {
+            "French Fries (food)": null,
+            "Spaghetti (food)": null,
+            "Pizza (food)": null,
+            "Shoestring-Fries (food)": null,
+            "on (spatial)": null,
+            "top (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01500",
+        "prompt": "photo of an elementary school classroom filled with shrimp cocktail and baked beans on the floor",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01500.png",
+        "total_score": null,
+        "element_score": {
+            "photo (attribute)": null,
+            "elementary school classroom (location)": null,
+            "shrimp cocktail (food)": null,
+            "baked beans (food)": null,
+            "floor (location)": null,
+            "filled with (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01213",
+        "prompt": "happy independence day indonesia!",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01213.png",
+        "total_score": null,
+        "element_score": {
+            "independence day (activity)": null,
+            "indonesia (location)": null,
+            "happy (attribute)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01252",
+        "prompt": "hummingbird watercolor surrounded by flowers, pink tones",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01252.png",
+        "total_score": null,
+        "element_score": {
+            "hummingbird (animal)": null,
+            "watercolor (activity)": null,
+            "flowers (object)": null,
+            "pink tones (color)": null,
+            "surrounded by (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00030",
+        "prompt": "3 d rendered lonely golden number 1. octane render, professional, 4 k, no artifacts, stock image",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00030.png",
+        "total_score": null,
+        "element_score": {
+            "number 1 (object)": null,
+            "3 d rendered (activity)": null,
+            "lonely (attribute)": null,
+            "golden (color)": null,
+            "octane render (other)": null,
+            "professional (attribute)": null,
+            "4 k (attribute)": null,
+            "no artifacts (attribute)": null,
+            "stock image (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01539",
+        "prompt": "plate full of several freshly baked chocolate chip cookies, delicious, glistening, chocolate sauce, marshmallows, highly detailed, award winning photography octane render",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01539.png",
+        "total_score": null,
+        "element_score": {
+            "plate (object)": null,
+            "chocolate chip cookies (food)": null,
+            "chocolate sauce (food)": null,
+            "marshmallows (food)": null,
+            "several (counting)": null,
+            "freshly baked (attribute)": null,
+            "delicious (attribute)": null,
+            "glistening (attribute)": null,
+            "highly detailed (attribute)": null,
+            "award winning photography (attribute)": null,
+            "octane render (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00490",
+        "prompt": "a grocery store refrigerator has pint cartons of milk on the top shelf, quart cartons on the middle shelf, and gallon plastic jugs on the bottom shelf.",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00490.png",
+        "total_score": null,
+        "element_score": {
+            "grocery store (location)": null,
+            "refrigerator (object)": null,
+            "pint cartons of milk (object)": null,
+            "top shelf (location)": null,
+            "quart cartons (object)": null,
+            "middle shelf (location)": null,
+            "gallon plastic jugs (object)": null,
+            "bottom shelf (location)": null,
+            "on (spatial)": null,
+            "has (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00421",
+        "prompt": "a crystal mountain transformed into a fortress",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00421.png",
+        "total_score": null,
+        "element_score": {
+            "crystal mountain (object)": null,
+            "fortress (object)": null,
+            "transformed into (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01663",
+        "prompt": "spaghetti and meatballs going sicko mode",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01663.png",
+        "total_score": null,
+        "element_score": {
+            "spaghetti (food)": null,
+            "meatballs (food)": null,
+            "going sicko mode (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01227",
+        "prompt": "highly detailed oil painting, masterpiece, gothic cathedral on top of a mountain, fantasy, dead corpses on stakes, hell fire and sky, above view, top lighting, realistic shaded",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01227.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (attribute)": null,
+            "masterpiece (attribute)": null,
+            "gothic cathedral (object)": null,
+            "mountain (location)": null,
+            "fantasy (attribute)": null,
+            "dead corpses (object)": null,
+            "stakes (object)": null,
+            "hell fire (object)": null,
+            "sky (location)": null,
+            "above view (attribute)": null,
+            "top lighting (attribute)": null,
+            "realistic shaded (attribute)": null,
+            "highly detailed (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01771",
+        "prompt": "the man on the moon is made of cheese",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01771.png",
+        "total_score": null,
+        "element_score": {
+            "man (human)": null,
+            "moon (location)": null,
+            "cheese (food)": null,
+            "on (spatial)": null,
+            "made of (attribute)": null
+        },
+        "promt_meaningless": 0.166667,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00634",
+        "prompt": "a single large spaceship seen from the surface of a desert planet, sparsely populated, star wars, digital art, trending on art station",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00634.png",
+        "total_score": null,
+        "element_score": {
+            "spaceship (object)": null,
+            "surface (location)": null,
+            "desert planet (location)": null,
+            "star wars (other)": null,
+            "digital art (other)": null,
+            "art station (other)": null,
+            "single (counting)": null,
+            "large (attribute)": null,
+            "sparsely populated (attribute)": null,
+            "seen from (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00909",
+        "prompt": "celestial hot air balloon, intricate detail, volumetric lighting, epic composition, hyper detailed, ultra realistic, sharp focus, octane render, candle ray tracing, sense of awe, swirling mist, 4 k",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00909.png",
+        "total_score": null,
+        "element_score": {
+            "hot air balloon (object)": null,
+            "celestial (attribute)": null,
+            "intricate detail (attribute)": null,
+            "volumetric lighting (attribute)": null,
+            "epic composition (attribute)": null,
+            "hyper detailed (attribute)": null,
+            "ultra realistic (attribute)": null,
+            "sharp focus (attribute)": null,
+            "octane render (other)": null,
+            "candle ray tracing (other)": null,
+            "sense of awe (attribute)": null,
+            "swirling mist (attribute)": null,
+            "4 k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00667",
+        "prompt": "a tree 2010",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00667.png",
+        "total_score": null,
+        "element_score": {
+            "tree (object)": null,
+            "2010 (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01144",
+        "prompt": "frame, skeletal, bones, roses, epic, cinematic, lantern lighting, eerie, beautiful, dreamy, gray and pale pink",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01144.png",
+        "total_score": null,
+        "element_score": {
+            "frame (object)": null,
+            "skeletal (attribute)": null,
+            "bones (object)": null,
+            "roses (object)": null,
+            "epic (attribute)": null,
+            "cinematic (attribute)": null,
+            "lantern lighting (object)": null,
+            "eerie (attribute)": null,
+            "beautiful (attribute)": null,
+            "dreamy (attribute)": null,
+            "gray (color)": null,
+            "pale pink (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00790",
+        "prompt": "anthropomorphic turtle hero",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00790.png",
+        "total_score": null,
+        "element_score": {
+            "turtle (animal)": null,
+            "hero (other)": null,
+            "anthropomorphic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00742",
+        "prompt": "an apple with the texture and color of leather, close up, award winning digital photography",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00742.png",
+        "total_score": null,
+        "element_score": {
+            "apple (food)": null,
+            "texture (attribute)": null,
+            "color (attribute)": null,
+            "leather (material)": null,
+            "close up (attribute)": null,
+            "award winning digital photography (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00750",
+        "prompt": "an ethereal misty fairy swamp, fantasy illustration",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00750.png",
+        "total_score": null,
+        "element_score": {
+            "fairy (human)": null,
+            "swamp (location)": null,
+            "ethereal (attribute)": null,
+            "misty (attribute)": null,
+            "fantasy illustration (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01383",
+        "prompt": "man face made of smoke particles",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01383.png",
+        "total_score": null,
+        "element_score": {
+            "man face (human)": null,
+            "smoke particles (object)": null,
+            "made of (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.5,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00766",
+        "prompt": "an illustration of the second law of thermodynamics",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00766.png",
+        "total_score": null,
+        "element_score": {
+            "second law of thermodynamics (other)": null,
+            "illustration (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00167",
+        "prompt": "Close-up of highly realistic hand holding cigarette with smoke, vintage photo,",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00167.png",
+        "total_score": null,
+        "element_score": {
+            "hand (human)": null,
+            "cigarette (object)": null,
+            "smoke (object)": null,
+            "close-up (attribute)": null,
+            "highly realistic (attribute)": null,
+            "vintage photo (attribute)": null,
+            "holding (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00076",
+        "prompt": "A cat on a motorcycle with wind flowing through his jacket, driving through rainbow road, digital art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00076.png",
+        "total_score": null,
+        "element_score": {
+            "cat (animal)": null,
+            "motorcycle (object)": null,
+            "wind (other)": null,
+            "jacket (object)": null,
+            "rainbow road (location)": null,
+            "driving (activity)": null,
+            "on (spatial)": null,
+            "through (spatial)": null,
+            "digital art (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00087",
+        "prompt": "A highly detailed oil painting of a very tall golden tree in the middle of a tiny rock and dirt island surrounded by a very large river glowing bright blue, with a very fast current.",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00087.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "tree (object)": null,
+            "rock (object)": null,
+            "dirt island (location)": null,
+            "river (object)": null,
+            "current (activity)": null,
+            "highly detailed (attribute)": null,
+            "very tall (attribute)": null,
+            "golden (color)": null,
+            "tiny (attribute)": null,
+            "very large (attribute)": null,
+            "glowing (attribute)": null,
+            "bright blue (color)": null,
+            "very fast (attribute)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00058",
+        "prompt": "A 46 year old tree, fantasy painting, lots of detail",
+        "type": "real",
+        "img_path": "SD_v2.1/00058.png",
+        "total_score": null,
+        "element_score": {
+            "tree (object)": null,
+            "fantasy painting (attribute)": null,
+            "detail (attribute)": null,
+            "46 year old (counting)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00866",
+        "prompt": "book illustration of a wild boar with shades dancing, book illustration, monochromatic, white background, black and white image",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00866.png",
+        "total_score": null,
+        "element_score": {
+            "wild boar (animal)": null,
+            "shades (object)": null,
+            "dancing (activity)": null,
+            "book illustration (activity)": null,
+            "monochromatic (attribute)": null,
+            "background (object)": null,
+            "black and white (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00826",
+        "prompt": "beautiful iridescent metal mirror face, smooth, reflections, proud, looking away, outdoor, blue sky, 8 k, realistic, highly detailed, award winning photography",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00826.png",
+        "total_score": null,
+        "element_score": {
+            "mirror face (object)": null,
+            "reflections (object)": null,
+            "outdoor (location)": null,
+            "blue sky (object)": null,
+            "8 k (other)": null,
+            "photography (activity)": null,
+            "beautiful (attribute)": null,
+            "iridescent (attribute)": null,
+            "metal (material)": null,
+            "smooth (attribute)": null,
+            "proud (attribute)": null,
+            "looking away (activity)": null,
+            "realistic (attribute)": null,
+            "highly detailed (attribute)": null,
+            "award winning (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00598",
+        "prompt": "a polyester peach is peeled and diced into small pieces, with the colors of the peach mixed together and used as a brush and palette for a painting of a sunset in the garden, digital art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00598.png",
+        "total_score": null,
+        "element_score": {
+            "peach (food)": null,
+            "small pieces (object)": null,
+            "colors (attribute)": null,
+            "brush (object)": null,
+            "palette (object)": null,
+            "painting (object)": null,
+            "sunset (object)": null,
+            "garden (location)": null,
+            "digital art (attribute)": null,
+            "polyester (material)": null,
+            "peeled (activity)": null,
+            "diced (activity)": null,
+            "mixed together (activity)": null,
+            "used (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00152",
+        "prompt": "Beautiful 1976 psychedelic textbook illustration of underwater coral seascape, highly detailed, 8k",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00152.png",
+        "total_score": null,
+        "element_score": {
+            "1976 (other)": null,
+            "textbook illustration (object)": null,
+            "underwater (location)": null,
+            "coral seascape (object)": null,
+            "highly detailed (attribute)": null,
+            "8k (attribute)": null,
+            "psychedelic (attribute)": null,
+            "beautiful (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01689",
+        "prompt": "storybook castle, detailed, 4 k, intricate, illustration, line art, lined paper, doodle",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01689.png",
+        "total_score": null,
+        "element_score": {
+            "storybook castle (object)": null,
+            "detailed (attribute)": null,
+            "4 k (other)": null,
+            "intricate (attribute)": null,
+            "illustration (attribute)": null,
+            "line art (attribute)": null,
+            "lined paper (material)": null,
+            "doodle (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01860",
+        "prompt": "ultra wide full length painting of a prisoner holding prison bars, cave prison, highly detailed, high resolution, oil in canvas",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01860.png",
+        "total_score": null,
+        "element_score": {
+            "prisoner (human)": null,
+            "prison bars (object)": null,
+            "cave prison (location)": null,
+            "holding (activity)": null,
+            "painting (object)": null,
+            "ultra wide (attribute)": null,
+            "full length (attribute)": null,
+            "highly detailed (attribute)": null,
+            "high resolution (attribute)": null,
+            "oil in canvas (material)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00586",
+        "prompt": "a photo of the hands of a magician manipulating a smooth dough floating and spinning in the air, black background, flour dust spray, backlit, high quality action photography, studio photo, 50mm",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00586.png",
+        "total_score": null,
+        "element_score": {
+            "hands (human)": null,
+            "magician (human)": null,
+            "dough (food)": null,
+            "floating (activity)": null,
+            "spinning (activity)": null,
+            "background (object)": null,
+            "flour dust spray (object)": null,
+            "photo (activity)": null,
+            "manipulating (activity)": null,
+            "smooth (attribute)": null,
+            "in the air (spatial)": null,
+            "black (color)": null,
+            "backlit (attribute)": null,
+            "high quality action photography (attribute)": null,
+            "studio photo (attribute)": null,
+            "50mm (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00111",
+        "prompt": "A raccoon on trial, colored pencil, realistic, courtroom drawing, associated press",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00111.png",
+        "total_score": null,
+        "element_score": {
+            "raccoon (animal)": null,
+            "trial (activity)": null,
+            "colored pencil (material)": null,
+            "realistic (attribute)": null,
+            "courtroom drawing (activity)": null,
+            "associated press (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00659",
+        "prompt": "a tall royal knight in golden armor bowing to his king in a throne room, painting, digital art, harsh lighting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00659.png",
+        "total_score": null,
+        "element_score": {
+            "knight (human)": null,
+            "king (human)": null,
+            "armor (object)": null,
+            "throne room (location)": null,
+            "bowing (activity)": null,
+            "tall (attribute)": null,
+            "royal (attribute)": null,
+            "golden (color)": null,
+            "painting (attribute)": null,
+            "digital art (attribute)": null,
+            "harsh lighting (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01895",
+        "prompt": "waterfall by a truly great artist",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01895.png",
+        "total_score": null,
+        "element_score": {
+            "waterfall (object)": null,
+            "artist (human)": null,
+            "truly great (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00799",
+        "prompt": "architecture that is made of living cells seen through a microscope, rick joy",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00799.png",
+        "total_score": null,
+        "element_score": {
+            "architecture (object)": null,
+            "living cells (object)": null,
+            "microscope (object)": null,
+            "rick joy (human)": null,
+            "made of (activity)": null,
+            "seen through (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01497",
+        "prompt": "photo of a dark glass and plastic futuristic aerodynamic rectangular box - shaped car with neon lights, studio lighting, spaceship design, hard surfaces",
+        "type": "real",
+        "img_path": "SDXL/01497.png",
+        "total_score": null,
+        "element_score": {
+            "glass (material)": null,
+            "plastic (material)": null,
+            "futuristic (attribute)": null,
+            "aerodynamic (attribute)": null,
+            "rectangular box - shaped car (object)": null,
+            "neon lights (object)": null,
+            "studio lighting (attribute)": null,
+            "spaceship design (attribute)": null,
+            "hard surfaces (attribute)": null,
+            "dark (color)": null,
+            "photo (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00041",
+        "prompt": "4 k image of matte oil painting modernist black green grey and white",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00041.png",
+        "total_score": null,
+        "element_score": {
+            "4 k image (attribute)": null,
+            "matte oil painting (object)": null,
+            "modernist (other)": null,
+            "black (color)": null,
+            "green (color)": null,
+            "grey (color)": null,
+            "white (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01718",
+        "prompt": "teeth made of plasticine scattered on the table",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01718.png",
+        "total_score": null,
+        "element_score": {
+            "teeth (object)": null,
+            "plasticine (material)": null,
+            "table (object)": null,
+            "scattered (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01246",
+        "prompt": "how alien should aliens look like? page from an illustration book about aliens and their ancestors",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01246.png",
+        "total_score": null,
+        "element_score": {
+            "alien (other)": null,
+            "aliens (other)": null,
+            "look like (activity)": null,
+            "page (object)": null,
+            "illustration book (object)": null,
+            "ancestors (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00645",
+        "prompt": "a square dark dungeon room. There is a ladder going to an attic and a slide going down, oil painting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00645.png",
+        "total_score": null,
+        "element_score": {
+            "dungeon room (location)": null,
+            "ladder (object)": null,
+            "attic (location)": null,
+            "slide (object)": null,
+            "oil painting (attribute)": null,
+            "square (shape)": null,
+            "dark (attribute)": null,
+            "going to (activity)": null,
+            "going down (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00747",
+        "prompt": "an award winning photo of a car from the year ten thousand",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00747.png",
+        "total_score": null,
+        "element_score": {
+            "photo (attribute)": null,
+            "car (object)": null,
+            "award winning (attribute)": null,
+            "year ten thousand (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01334",
+        "prompt": "large bright room full of epic clouds",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01334.png",
+        "total_score": null,
+        "element_score": {
+            "room (location)": null,
+            "clouds (object)": null,
+            "large (attribute)": null,
+            "bright (attribute)": null,
+            "full of (spatial)": null,
+            "epic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00182",
+        "prompt": "Evil monster in a jar, product photography, studio lightning",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00182.png",
+        "total_score": null,
+        "element_score": {
+            "monster (other)": null,
+            "jar (object)": null,
+            "product photography (activity)": null,
+            "studio lightning (object)": null,
+            "evil (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00480",
+        "prompt": "a giant cow attacked by snow speeders in the movie Star Wars The Empire Strikes Back",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00480.png",
+        "total_score": null,
+        "element_score": {
+            "cow (animal)": null,
+            "snow speeders (object)": null,
+            "movie Star Wars The Empire Strikes Back (other)": null,
+            "giant (attribute)": null,
+            "attacked by (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00324",
+        "prompt": "a bad workman always blames his tools, highly detailed, 8 k resolution, when someone blames the quality of their equipment or other external factors when they perform a task poorly",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00324.png",
+        "total_score": null,
+        "element_score": {
+            "bad workman (human)": null,
+            "blames (activity)": null,
+            "tools (object)": null,
+            "highly detailed (attribute)": null,
+            "8 k resolution (attribute)": null,
+            "perform a task poorly (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01107",
+        "prompt": "feelings of shame, male portrait + concept art, mysterious indoor surroundings, realistic emotions",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01107.png",
+        "total_score": null,
+        "element_score": {
+            "shame (other)": null,
+            "male portrait (human)": null,
+            "concept art (other)": null,
+            "indoor surroundings (location)": null,
+            "realistic emotions (other)": null,
+            "mysterious (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01669",
+        "prompt": "squirrel with sun glasses, low angle camera, award winning",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01669.png",
+        "total_score": null,
+        "element_score": {
+            "squirrel (animal)": null,
+            "sun glasses (object)": null,
+            "low angle camera (attribute)": null,
+            "award winning (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01799",
+        "prompt": "the wolf shall dwell with the lamb, and the leopard shall lie down with the kid ; their young ones shall lie down together, and the lion shall eat straw like the ox",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01799.png",
+        "total_score": null,
+        "element_score": {
+            "wolf (animal)": null,
+            "lamb (animal)": null,
+            "leopard (animal)": null,
+            "kid (animal)": null,
+            "young ones (animal)": null,
+            "lion (animal)": null,
+            "straw (object)": null,
+            "ox (animal)": null,
+            "dwell (activity)": null,
+            "lie down (activity)": null,
+            "eat (activity)": null,
+            "together (attribute)": null,
+            "like (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00862",
+        "prompt": "bonsai tree, purple background, watercolor-wash and ink",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00862.png",
+        "total_score": null,
+        "element_score": {
+            "bonsai tree (object)": null,
+            "purple (color)": null,
+            "background (location)": null,
+            "watercolor-wash (attribute)": null,
+            "ink (material)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00323",
+        "prompt": "a bad workman always blames his tools, highly detailed, 8 k resolution",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00323.png",
+        "total_score": null,
+        "element_score": {
+            "workman (human)": null,
+            "tools (object)": null,
+            "blames (activity)": null,
+            "bad (attribute)": null,
+            "always (attribute)": null,
+            "highly detailed (attribute)": null,
+            "8 k resolution (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01369",
+        "prompt": "low!!! camera angle view ( from the door ) of two people in a car driving home, anime style",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01369.png",
+        "total_score": null,
+        "element_score": {
+            "camera angle view (attribute)": null,
+            "door (object)": null,
+            "two (counting)": null,
+            "people (human)": null,
+            "car (object)": null,
+            "driving home (activity)": null,
+            "anime style (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01287",
+        "prompt": "impressionist surreal distorted painting of a car from the 4 0 s",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01287.png",
+        "total_score": null,
+        "element_score": {
+            "car (object)": null,
+            "impressionist (attribute)": null,
+            "surreal (attribute)": null,
+            "distorted (attribute)": null,
+            "painting (activity)": null,
+            "4 0 s (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00613",
+        "prompt": "a rectilinear shot of a city in the style of Blade Runner 2049",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00613.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "rectilinear shot (attribute)": null,
+            "style of Blade Runner 2049 (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01840",
+        "prompt": "trending on art station, digital art, happy woman with arms raised, from behind, celebrating, full body, shadow, good lighting",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01840.png",
+        "total_score": null,
+        "element_score": {
+            "art station (location)": null,
+            "digital art (attribute)": null,
+            "woman (human)": null,
+            "arms raised (activity)": null,
+            "from behind (attribute)": null,
+            "celebrating (activity)": null,
+            "full body (attribute)": null,
+            "shadow (attribute)": null,
+            "good lighting (attribute)": null,
+            "trending (attribute)": null,
+            "happy (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00148",
+        "prompt": "Apple with the colors of a rainbow, glowing, post processing, Octane Render",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00148.png",
+        "total_score": null,
+        "element_score": {
+            "Apple (food)": null,
+            "rainbow (object)": null,
+            "glowing (attribute)": null,
+            "post processing (activity)": null,
+            "Octane Render (other)": null,
+            "colors of a rainbow (color)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00333",
+        "prompt": "a beautiful detailed matte painting of the spiritual world with elevated and high frequency beings, the forms are detailed but mutate in search of elevation and metaphysical transformation, 16K ultra-realistic 3D, crying engine",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00333.png",
+        "total_score": null,
+        "element_score": {
+            "matte painting (object)": null,
+            "spiritual world (location)": null,
+            "high frequency beings (other)": null,
+            "forms (object)": null,
+            "elevation (attribute)": null,
+            "metaphysical transformation (activity)": null,
+            "16K ultra-realistic 3D (attribute)": null,
+            "crying engine (object)": null,
+            "beautiful (attribute)": null,
+            "detailed (attribute)": null,
+            "mutate (activity)": null
+        },
+        "promt_meaningless": 0.166667,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.166667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01805",
+        "prompt": "thick swirling purple liquid with black glitter in an closed glass vial, mid shot, realistic, oil painting, high detail",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01805.png",
+        "total_score": null,
+        "element_score": {
+            "liquid (other)": null,
+            "glitter (object)": null,
+            "glass vial (object)": null,
+            "swirling (activity)": null,
+            "mid shot (attribute)": null,
+            "realistic (attribute)": null,
+            "oil painting (attribute)": null,
+            "high detail (attribute)": null,
+            "purple (color)": null,
+            "black (color)": null,
+            "thick (attribute)": null,
+            "closed (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00849",
+        "prompt": "black and white, high contrast, low angle, pop art of a group of workers raising their fists",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00849.png",
+        "total_score": null,
+        "element_score": {
+            "workers (human)": null,
+            "fists (object)": null,
+            "raising (activity)": null,
+            "group (counting)": null,
+            "black and white (color)": null,
+            "high contrast (attribute)": null,
+            "low angle (attribute)": null,
+            "pop art (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00682",
+        "prompt": "a vivid courtroom sketch of a goblin testifying on trial",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00682.png",
+        "total_score": null,
+        "element_score": {
+            "courtroom sketch (object)": null,
+            "goblin (other)": null,
+            "trial (activity)": null,
+            "testifying (activity)": null,
+            "vivid (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00530",
+        "prompt": "a macro infrared photograph of a rose",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00530.png",
+        "total_score": null,
+        "element_score": {
+            "photograph (attribute)": null,
+            "rose (object)": null,
+            "macro (other)": null,
+            "infrared (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01732",
+        "prompt": "the blue cucumber man telling a story to a group of little foxes, children book illustration",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01732.png",
+        "total_score": null,
+        "element_score": {
+            "cucumber man (other)": null,
+            "story (activity)": null,
+            "group (counting)": null,
+            "foxes (animal)": null,
+            "children book illustration (attribute)": null,
+            "blue (color)": null,
+            "telling (activity)": null,
+            "little (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00059",
+        "prompt": "A 47 year old tree, fantasy painting, lots of detail",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00059.png",
+        "total_score": null,
+        "element_score": {
+            "tree (object)": null,
+            "fantasy painting (activity)": null,
+            "lots of detail (attribute)": null,
+            "47 year old (counting)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00616",
+        "prompt": "a resort leading to a view of the beach, Digital art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00616.png",
+        "total_score": null,
+        "element_score": {
+            "resort (location)": null,
+            "beach (location)": null,
+            "leading to (activity)": null,
+            "view (attribute)": null,
+            "Digital art (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00760",
+        "prompt": "an illustration of a child holding a bag of apples math problem",
+        "type": "real",
+        "img_path": "PixArt-alpha/00760.png",
+        "total_score": null,
+        "element_score": {
+            "child (human)": null,
+            "bag (object)": null,
+            "apples (food)": null,
+            "holding (activity)": null,
+            "illustration (attribute)": null,
+            "math problem (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00071",
+        "prompt": "A car from 1980, award winning photo",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00071.png",
+        "total_score": null,
+        "element_score": {
+            "car (object)": null,
+            "1980 (other)": null,
+            "award winning photo (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00526",
+        "prompt": "a liquid ice cream van outside on the street, sunny day",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00526.png",
+        "total_score": null,
+        "element_score": {
+            "ice cream van (object)": null,
+            "street (location)": null,
+            "sunny day (attribute)": null,
+            "liquid (attribute)": null,
+            "outside (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00402",
+        "prompt": "a city on top of a tall mountaintop",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00402.png",
+        "total_score": null,
+        "element_score": {
+            "city (location)": null,
+            "mountaintop (location)": null,
+            "on top of (spatial)": null,
+            "tall (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00943",
+        "prompt": "close up shot of a lemon tree",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00943.png",
+        "total_score": null,
+        "element_score": {
+            "lemon tree (object)": null,
+            "close up shot (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01854",
+        "prompt": "ultra realistic Letter M cake, 8K resolution, well designed,",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01854.png",
+        "total_score": null,
+        "element_score": {
+            "Letter M (object)": null,
+            "cake (food)": null,
+            "8K resolution (attribute)": null,
+            "well designed (attribute)": null,
+            "ultra realistic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01923",
+        "prompt": "wide angle professional photo of an original sculpture in full view, studio photo",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01923.png",
+        "total_score": null,
+        "element_score": {
+            "sculpture (object)": null,
+            "photo (activity)": null,
+            "full view (attribute)": null,
+            "studio (location)": null,
+            "professional (attribute)": null,
+            "original (attribute)": null,
+            "wide angle (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00240",
+        "prompt": "Newspaper titled Yesterday's News",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00240.png",
+        "total_score": null,
+        "element_score": {
+            "Newspaper (object)": null,
+            "Yesterday's News (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01534",
+        "prompt": "pizza with a brain on it",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01534.png",
+        "total_score": null,
+        "element_score": {
+            "pizza (food)": null,
+            "brain (object)": null,
+            "on (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00070",
+        "prompt": "A cake with the phrase 'Happy Birthday' written on it with cream",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00070.png",
+        "total_score": null,
+        "element_score": {
+            "cake (food)": null,
+            "phrase 'Happy Birthday' (other)": null,
+            "cream (food)": null,
+            "written on (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01303",
+        "prompt": "inside an empty large white room, well lit, 3 d perspective, virtual reality",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01303.png",
+        "total_score": null,
+        "element_score": {
+            "room (location)": null,
+            "empty (attribute)": null,
+            "large (attribute)": null,
+            "white (color)": null,
+            "well lit (attribute)": null,
+            "3 d perspective (attribute)": null,
+            "virtual reality (attribute)": null,
+            "inside (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.5,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01522",
+        "prompt": "picture of a text, red background, text made out of grass - fiber saying pizza",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01522.png",
+        "total_score": null,
+        "element_score": {
+            "picture (attribute)": null,
+            "text (object)": null,
+            "background (location)": null,
+            "grass - fiber (material)": null,
+            "pizza (food)": null,
+            "red (color)": null,
+            "saying (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00259",
+        "prompt": "Rottweiler seal hybrid",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00259.png",
+        "total_score": null,
+        "element_score": {
+            "Rottweiler (animal)": null,
+            "seal (animal)": null,
+            "hybrid (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01839",
+        "prompt": "trees with arms instead of branches",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01839.png",
+        "total_score": null,
+        "element_score": {
+            "trees (object)": null,
+            "arms (object)": null,
+            "branches (object)": null,
+            "instead of (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01230",
+        "prompt": "highly detailed pencil sketch portrait of a beautiful woman with big eyeglasses that are vertically too large for her cute face",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01230.png",
+        "total_score": null,
+        "element_score": {
+            "pencil sketch (activity)": null,
+            "portrait (object)": null,
+            "woman (human)": null,
+            "eyeglasses (object)": null,
+            "face (object)": null,
+            "highly detailed (attribute)": null,
+            "beautiful (attribute)": null,
+            "big (attribute)": null,
+            "vertically too large (attribute)": null,
+            "cute (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00506",
+        "prompt": "a history of violence starring tom hanks",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00506.png",
+        "total_score": null,
+        "element_score": {
+            "history of violence (other)": null,
+            "tom hanks (human)": null,
+            "starring (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01011",
+        "prompt": "depictions of learning never exhausts the mind as a renaissance painting, high definition, detailed, clean",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01011.png",
+        "total_score": null,
+        "element_score": {
+            "depictions (activity)": null,
+            "learning (activity)": null,
+            "mind (object)": null,
+            "renaissance painting (object)": null,
+            "high definition (attribute)": null,
+            "detailed (attribute)": null,
+            "clean (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01372",
+        "prompt": "macro shot of spaghetti with ice cream and banana and chocolate sauce, on a wooden table, 5 4 9, natural light, cinematic lighting, 8 k, food photography",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01372.png",
+        "total_score": null,
+        "element_score": {
+            "spaghetti (food)": null,
+            "ice cream (food)": null,
+            "banana (food)": null,
+            "chocolate sauce (food)": null,
+            "wooden table (object)": null,
+            "macro shot (activity)": null,
+            "on (spatial)": null,
+            "natural light (attribute)": null,
+            "cinematic lighting (attribute)": null,
+            "8 k (attribute)": null,
+            "food photography (activity)": null,
+            "5 4 9 (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00764",
+        "prompt": "an illustration of antibiotic resistance",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00764.png",
+        "total_score": null,
+        "element_score": {
+            "antibiotic resistance (other)": null,
+            "illustration (activity)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00079",
+        "prompt": "A colonial zombie standing in the middle of the jungle, engraving, ink, black and white, 17th century",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00079.png",
+        "total_score": null,
+        "element_score": {
+            "zombie (human)": null,
+            "jungle (location)": null,
+            "standing (activity)": null,
+            "middle (spatial)": null,
+            "engraving (attribute)": null,
+            "ink (attribute)": null,
+            "black and white (color)": null,
+            "17th century (other)": null,
+            "colonial (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01878",
+        "prompt": "vintage 1 9 5 0 s illustration, showing scenes from the life in 2 0 0 0 s, high quality image",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01878.png",
+        "total_score": null,
+        "element_score": {
+            "vintage 1 9 5 0 s (other)": null,
+            "illustration (attribute)": null,
+            "scenes (object)": null,
+            "life in 2 0 0 0 s (other)": null,
+            "high quality image (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01338",
+        "prompt": "large haunted mansion in the mountain side, cinematic, octane render, art station, dramatic lighting, beautiful moonlight night, concept art, rococo, photorealistic, intense detail, 8 k",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01338.png",
+        "total_score": null,
+        "element_score": {
+            "mansion (location)": null,
+            "mountain side (location)": null,
+            "cinematic (attribute)": null,
+            "octane render (other)": null,
+            "art station (other)": null,
+            "dramatic lighting (attribute)": null,
+            "moonlight night (attribute)": null,
+            "concept art (other)": null,
+            "rococo (other)": null,
+            "photorealistic (attribute)": null,
+            "intense detail (attribute)": null,
+            "8 k (other)": null,
+            "large (attribute)": null,
+            "haunted (attribute)": null,
+            "beautiful (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00965",
+        "prompt": "comically big large sandwich",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00965.png",
+        "total_score": null,
+        "element_score": {
+            "sandwich (food)": null,
+            "comically big large (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.5,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01563",
+        "prompt": "psychedelic portrait of an angry octopus, cartoon illustration, finely detailed, photorealistic illustration, “ go away ”",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01563.png",
+        "total_score": null,
+        "element_score": {
+            "portrait (attribute)": null,
+            "octopus (animal)": null,
+            "cartoon illustration (attribute)": null,
+            "finely detailed (attribute)": null,
+            "photorealistic illustration (attribute)": null,
+            "psychedelic (attribute)": null,
+            "angry (attribute)": null,
+            "“ go away ” (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01458",
+        "prompt": "oil painting tarot card illustration of a hand appearing from a cloud in the sky holding up a sword that's ringed with a crown with hanging laurels, elaborate framed border,",
+        "type": "real",
+        "img_path": "SD_v1.5/01458.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (attribute)": null,
+            "tarot card (object)": null,
+            "illustration (activity)": null,
+            "hand (object)": null,
+            "cloud (object)": null,
+            "sky (object)": null,
+            "sword (object)": null,
+            "crown (object)": null,
+            "laurels (object)": null,
+            "framed border (object)": null,
+            "appearing (activity)": null,
+            "holding up (activity)": null,
+            "ringed (activity)": null,
+            "hanging (activity)": null,
+            "elaborate (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01490",
+        "prompt": "peaceful puffy clouds, storybook illustration, 4 k",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01490.png",
+        "total_score": null,
+        "element_score": {
+            "clouds (object)": null,
+            "storybook illustration (attribute)": null,
+            "peaceful puffy (attribute)": null,
+            "4 k (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00437",
+        "prompt": "a detailed page from an encyclopedia with information about a martian colony",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00437.png",
+        "total_score": null,
+        "element_score": {
+            "page (object)": null,
+            "encyclopedia (object)": null,
+            "information (object)": null,
+            "martian colony (location)": null,
+            "detailed (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.166667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01546",
+        "prompt": "portrait of an astronaut, left profile angle view",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01546.png",
+        "total_score": null,
+        "element_score": {
+            "astronaut (human)": null,
+            "portrait (attribute)": null,
+            "left profile angle view (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00383",
+        "prompt": "a car drives through an ice tunnel made of snow",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00383.png",
+        "total_score": null,
+        "element_score": {
+            "car (object)": null,
+            "ice tunnel (object)": null,
+            "snow (object)": null,
+            "drives through (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.833333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01933",
+        "prompt": "wood surface",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01933.png",
+        "total_score": null,
+        "element_score": {
+            "wood (material)": null,
+            "surface (object)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01968",
+        "prompt": "“math equations”",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01968.png",
+        "total_score": null,
+        "element_score": {
+            "math equations (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01151",
+        "prompt": "frog-eye view, destroyed tank in front of the new york skyline, smoking and burning, reflections, award-winning photograph, sunset, desolate, atmospheric",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01151.png",
+        "total_score": null,
+        "element_score": {
+            "frog-eye view (attribute)": null,
+            "tank (object)": null,
+            "new york skyline (location)": null,
+            "smoking (activity)": null,
+            "burning (activity)": null,
+            "reflections (attribute)": null,
+            "award-winning photograph (attribute)": null,
+            "sunset (object)": null,
+            "desolate (attribute)": null,
+            "atmospheric (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01429",
+        "prompt": "multiple dark gross mushrooms growing through a human skull in the woods",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01429.png",
+        "total_score": null,
+        "element_score": {
+            "mushrooms (object)": null,
+            "human skull (object)": null,
+            "woods (location)": null,
+            "growing through (activity)": null,
+            "multiple (counting)": null,
+            "dark (color)": null,
+            "gross (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01083",
+        "prompt": "evil Banana in sewers tunnel, dark lighting, real life photo, trending on deep web",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01083.png",
+        "total_score": null,
+        "element_score": {
+            "Banana (object)": null,
+            "sewers tunnel (location)": null,
+            "dark lighting (attribute)": null,
+            "real life photo (attribute)": null,
+            "trending on deep web (other)": null,
+            "evil (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01029",
+        "prompt": "digital illustration of yin yang flow",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01029.png",
+        "total_score": null,
+        "element_score": {
+            "yin yang (object)": null,
+            "flow (activity)": null,
+            "digital illustration (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00935",
+        "prompt": "classic oil painting, still life of a clockwork pear sitting on a clean white plate",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00935.png",
+        "total_score": null,
+        "element_score": {
+            "oil painting (object)": null,
+            "still life (attribute)": null,
+            "pear (food)": null,
+            "clockwork (material)": null,
+            "plate (object)": null,
+            "sitting (activity)": null,
+            "clean (attribute)": null,
+            "white (color)": null,
+            "classic (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.5,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01795",
+        "prompt": "the title'soft dimension'in futuristic font",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01795.png",
+        "total_score": null,
+        "element_score": {
+            "title (other)": null,
+            "soft dimension (other)": null,
+            "futuristic font (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00507",
+        "prompt": "a hoplite wall holding off an opposing force, painting, war",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00507.png",
+        "total_score": null,
+        "element_score": {
+            "hoplite wall (object)": null,
+            "opposing force (object)": null,
+            "holding off (activity)": null,
+            "painting (activity)": null,
+            "war (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00285",
+        "prompt": "The octopus is a captain and steers the ship, highly detailed, fantasy art",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00285.png",
+        "total_score": null,
+        "element_score": {
+            "octopus (animal)": null,
+            "captain (human)": null,
+            "ship (object)": null,
+            "steers (activity)": null,
+            "highly detailed (attribute)": null,
+            "fantasy art (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00655",
+        "prompt": "a surrealism painting of god being fired after creation was outsourced to stable diffusion",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00655.png",
+        "total_score": null,
+        "element_score": {
+            "god (other)": null,
+            "creation (activity)": null,
+            "stable diffusion (other)": null,
+            "surrealism painting (attribute)": null,
+            "being fired (activity)": null,
+            "outsourced (activity)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00010",
+        "prompt": "1 9 0 0 s sears and roebuck catalogue for mushrooms",
+        "type": "real",
+        "img_path": "SDXL-Lightning/00010.png",
+        "total_score": null,
+        "element_score": {
+            "1 9 0 0 s (other)": null,
+            "sears and roebuck catalogue (object)": null,
+            "mushrooms (food)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01523",
+        "prompt": "pictures of a hedgehog dressed as a spider",
+        "type": "real",
+        "img_path": "SDXL-Turbo/01523.png",
+        "total_score": null,
+        "element_score": {
+            "hedgehog (animal)": null,
+            "dressed as (activity)": null,
+            "spider (animal)": null,
+            "pictures (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01079",
+        "prompt": "endless staircase to the secret of the universe",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01079.png",
+        "total_score": null,
+        "element_score": {
+            "staircase (object)": null,
+            "secret of the universe (other)": null,
+            "endless (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01108",
+        "prompt": "female daredevil on top of a building, octane, realistic lighting, marvel movie still",
+        "type": "real",
+        "img_path": "SDXL-Lightning/01108.png",
+        "total_score": null,
+        "element_score": {
+            "female daredevil (human)": null,
+            "building (location)": null,
+            "octane (other)": null,
+            "realistic lighting (attribute)": null,
+            "marvel movie still (other)": null,
+            "on top of (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
         "fidelity_label": null
     }
 ]
