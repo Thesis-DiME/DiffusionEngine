@@ -64,5 +64,191 @@
         "split_confidence": 0.666667,
         "attribute_confidence": 0.333333,
         "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SDXL/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SD_v2.1/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SD_v1.5/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "PixArt-alpha/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SDXL/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.333333,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SD_v2.1/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00192",
+        "prompt": "Forklift certification",
+        "type": "real",
+        "img_path": "SD_v1.5/00192.png",
+        "total_score": null,
+        "element_score": {
+            "forklift (object)": null,
+            "certification (other)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 1.0,
+        "attribute_confidence": 1.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "01076",
+        "prompt": "enchanted forest with intricate details and tons of big trees. deep illumination and beautiful use of light and shadow to create a sense of depth and movement. using energetic brushwork and a limited color palette. light angle left at 1 0 degrees.",
+        "type": "real",
+        "img_path": "PixArt-Sigma/01076.png",
+        "total_score": null,
+        "element_score": {
+            "forest (location)": null,
+            "big trees (object)": null,
+            "light (object)": null,
+            "shadow (object)": null,
+            "depth (attribute)": null,
+            "movement (attribute)": null,
+            "brushwork (activity)": null,
+            "color palette (object)": null,
+            "light angle (attribute)": null,
+            "enchanted (attribute)": null,
+            "intricate details (attribute)": null,
+            "tons of (counting)": null,
+            "deep illumination (attribute)": null,
+            "beautiful use of light and shadow (activity)": null,
+            "energetic (attribute)": null,
+            "limited (attribute)": null,
+            "left at 1 0 degrees (spatial)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.666667,
+        "fidelity_label": null
     }
 ]
