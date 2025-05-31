@@ -53,7 +53,7 @@ def main(cfg: DictConfig):
     # else:
     pipe = StableDiffusionPipeline.from_pretrained(
         cfg.model_id,
-        torch_dtype=torch.float16,  # torch_dtype,
+        torch_dtype=torch_dtype,  # torch_dtype,
         safety_checker=None,
         requires_safety_checker=False,
     ).to(cfg.device)

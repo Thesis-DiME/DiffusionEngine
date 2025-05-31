@@ -1,5 +1,5 @@
 model_id: "sd-legacy/stable-diffusion-v1-5"
-num_inference_steps: 30
+num_inference_steps: 2
 seed: 0
 cfg_scale: 7.5
 output_path: "./data/generated_images"
