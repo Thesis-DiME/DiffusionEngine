@@ -1,0 +1,68 @@
+[
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "SDXL-Turbo/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.0,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "PixArt-Sigma/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.333333,
+        "attribute_confidence": 0.0,
+        "fidelity_label": null
+    },
+    {
+        "prompt_id": "00805",
+        "prompt": "attack of the pig giants, giant pigs, illustration, children's book, fictional drawing, bright colors, fantasy world, minimalist",
+        "type": "real",
+        "img_path": "PixArt-alpha/00805.png",
+        "total_score": null,
+        "element_score": {
+            "pig giants (animal)": null,
+            "attack (activity)": null,
+            "giant (attribute)": null,
+            "illustration (attribute)": null,
+            "children's book (object)": null,
+            "fictional drawing (attribute)": null,
+            "bright colors (color)": null,
+            "fantasy world (location)": null,
+            "minimalist (attribute)": null
+        },
+        "promt_meaningless": 0.0,
+        "split_confidence": 0.666667,
+        "attribute_confidence": 0.333333,
+        "fidelity_label": null
+    }
+]
