@@ -1,4 +1,4 @@
-model_id: "stabilityai/stable-diffusion-xl-base-1.0"
+model_id: "kandinsky-community/kandinsky-2-2-decoder"
 num_inference_steps: 30
 seed: 0
 cfg_scale: 7.5
