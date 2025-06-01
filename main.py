@@ -1,8 +1,7 @@
 import json
-from datetime import datetime
 
 import torch
-from diffusers import StableDiffusionPipeline, AutoencoderKL
+from diffusers import StableDiffusionPipeline, AutoencoderKL, AutoPipelineForText2Image
 from omegaconf import DictConfig
 import hydra
 from hydra.utils import get_original_cwd
@@ -38,22 +37,9 @@ def main(cfg: DictConfig):
 
     torch_dtype = torch.float16 if cfg.device == "cuda" else torch.float32
 
-    # if cfg.model_id == "sd-legacy/stable-diffusion-v1-5":
-    #     vae = AutoencoderKL.from_pretrained(
-    #         "madebyollin/sdxl-vae-fp16-fix", torch_dtype=torch.float16
-    #     )
-    #     pipe = StableDiffusionPipeline.from_pretrained(
-    #         cfg.model_id,
-    #         vae=vae,
-    #         torch_dtype=torch.float16,  # torch_dtype,
-    #         safety_checker=None,
-    #         requires_safety_checker=False,
-    #     ).to(cfg.device)
-    #     print('vae')
-    # else:
-    pipe = StableDiffusionPipeline.from_pretrained(
+    pipe = AutoPipelineForText2Image.from_pretrained(
         cfg.model_id,
-        torch_dtype=torch_dtype,  # torch_dtype,
+        torch_dtype=torch_dtype,
         safety_checker=None,
         requires_safety_checker=False,
     ).to(cfg.device)
@@ -73,13 +59,10 @@ def main(cfg: DictConfig):
         img_path = os.path.join(out_dir, file_name)
         image.save(img_path)
 
-        result_entry = dict(
-            item
-        )  # preserve all JSON keys (e.g. custom tags, attributes)
+        result_entry = dict(item)
         result_entry["img_path"] = file_name
         metadata.append(result_entry)
 
-    # Save metadata to JSON
     metadata_path = os.path.join(out_dir, "metadata.json")
     with open(metadata_path, "w") as f:
         json.dump(metadata, f, indent=2)
